@@ -1,0 +1,41 @@
+{
+  "category": "Molecular Biology",
+  "question": "How does alternative splicing increase protein diversity?",
+  "answer": "Okay, here\u2019s a concise and factual answer to how alternative splicing increases protein diversity:\n\n**Alternative splicing is a crucial mechanism that dramatically increases protein diversity by creating multiple protein isoforms from a single gene.**\n\nHere\u2019s a breakdown of the process:\n\n1. **Gene Segmentation:**  A gene typically codes for a protein. However, within a gene, different combinations of exons (coding sequences) are selected to be included in the final protein.\n\n2. **Spliceosome:** This is a complex of proteins (the spliceosome) that reads and joins these exons in a specific order.\n\n3. **Multiple Isoforms:**  Different combinations of exons are spliced together, resulting in multiple different mRNA transcripts. Each mRNA transcript produces a unique protein isoform.\n\n4. **Functional Diversity:**  Because each isoform has a slightly different sequence, it can perform slightly different functions. This leads to a vast array of protein variants with varied roles within the cell.\n\n**In essence, alternative splicing acts like a genetic \u201cfactory\u201d that produces a multitude of protein versions from a single blueprint.**\n\n---\n\nDo you want me to elaborate on any specific aspect of this, such as:\n\n*   The role of spliceosome components?\n*   The impact of alternative splicing on disease?",
+  "index": 61,
+  "validation": {
+    "accuracy": {
+      "score": 10,
+      "issues": [],
+      "strengths": [
+        "Accurately describes the process of alternative splicing.",
+        "Correctly identifies exons and the spliceosome.",
+        "Clearly explains the relationship between splicing variations and protein isoforms.",
+        "No factual errors present."
+      ]
+    },
+    "reasoning": {
+      "score": 9,
+      "analysis": "The explanation follows a logical flow, starting with the basic concept of gene segmentation and building up to the functional consequences of alternative splicing. The analogy of a \"genetic factory\" is helpful for understanding. The offer for further elaboration demonstrates a good understanding of potential areas for deeper discussion."
+    },
+    "completeness": {
+      "score": 8,
+      "analysis": "The answer covers the core concepts of alternative splicing effectively. It could be slightly more complete by mentioning the different *types* of alternative splicing (e.g., exon skipping, intron retention, mutually exclusive exons), but it adequately addresses the question of *how* it increases protein diversity."
+    },
+    "knowledge_compression": {
+      "preserved": [
+        "Exons as coding sequences",
+        "Role of the spliceosome",
+        "Isoform generation",
+        "Relationship between mRNA and protein",
+        "Functional consequences of isoforms"
+      ],
+      "lost": [
+        "Specific types of alternative splicing events",
+        "Regulatory elements influencing splicing (e.g., enhancers, silencers)",
+        "Detailed mechanisms of spliceosome action"
+      ],
+      "domain_handling": "Demonstrates strong understanding of molecular biology principles related to gene expression and protein synthesis. The answer is appropriately tailored to the question and avoids unnecessary complexity while remaining accurate."
+    }
+  }
+}

@@ -1,0 +1,2908 @@
+{
+  "raw_assessment": {
+    "overall_stats": {
+      "accuracy": {
+        "mean": 8.508771929824562,
+        "median": 9.0,
+        "std_dev": 1.409485025113517
+      },
+      "reasoning": {
+        "mean": 8.570175438596491,
+        "median": 9.0,
+        "std_dev": 1.457172059650746
+      },
+      "completeness": {
+        "mean": 7.508771929824562,
+        "median": 8.0,
+        "std_dev": 1.1229355810575656
+      }
+    },
+    "category_performance": {
+      "Ancient History": {
+        "accuracy": {
+          "mean": 5.333333333333333,
+          "median": 6,
+          "std_dev": 3.0550504633038935,
+          "count": 3
+        },
+        "reasoning": {
+          "mean": 5,
+          "median": 5,
+          "std_dev": 4.0,
+          "count": 3
+        },
+        "completeness": {
+          "mean": 5.666666666666667,
+          "median": 7,
+          "std_dev": 2.309401076758503,
+          "count": 3
+        }
+      },
+      "Physics": {
+        "accuracy": {
+          "mean": 9,
+          "median": 9,
+          "std_dev": 0.0,
+          "count": 3
+        },
+        "reasoning": {
+          "mean": 9,
+          "median": 9,
+          "std_dev": 0.0,
+          "count": 3
+        },
+        "completeness": {
+          "mean": 7.666666666666667,
+          "median": 8,
+          "std_dev": 0.5773502691896257,
+          "count": 3
+        }
+      },
+      "Mathematics": {
+        "accuracy": {
+          "mean": 8.333333333333334,
+          "median": 8,
+          "std_dev": 0.5773502691896257,
+          "count": 3
+        },
+        "reasoning": {
+          "mean": 8.666666666666666,
+          "median": 9,
+          "std_dev": 0.5773502691896257,
+          "count": 3
+        },
+        "completeness": {
+          "mean": 7,
+          "median": 7,
+          "std_dev": 0.0,
+          "count": 3
+        }
+      },
+      "Computer Science": {
+        "accuracy": {
+          "mean": 8,
+          "median": 9,
+          "std_dev": 1.7320508075688772,
+          "count": 3
+        },
+        "reasoning": {
+          "mean": 8.333333333333334,
+          "median": 9,
+          "std_dev": 1.1547005383792515,
+          "count": 3
+        },
+        "completeness": {
+          "mean": 7,
+          "median": 8,
+          "std_dev": 1.7320508075688772,
+          "count": 3
+        }
+      },
+      "Film Analysis": {
+        "accuracy": {
+          "mean": 9,
+          "median": 9,
+          "std_dev": 0.0,
+          "count": 3
+        },
+        "reasoning": {
+          "mean": 9,
+          "median": 9,
+          "std_dev": 0.0,
+          "count": 3
+        },
+        "completeness": {
+          "mean": 8,
+          "median": 8,
+          "std_dev": 0.0,
+          "count": 3
+        }
+      },
+      "Literature": {
+        "accuracy": {
+          "mean": 9,
+          "median": 9,
+          "std_dev": 0.0,
+          "count": 3
+        },
+        "reasoning": {
+          "mean": 9.333333333333334,
+          "median": 9,
+          "std_dev": 0.5773502691896257,
+          "count": 3
+        },
+        "completeness": {
+          "mean": 8,
+          "median": 8,
+          "std_dev": 0.0,
+          "count": 3
+        }
+      },
+      "Philosophy": {
+        "accuracy": {
+          "mean": 7,
+          "median": 7,
+          "std_dev": 1.0,
+          "count": 3
+        },
+        "reasoning": {
+          "mean": 8,
+          "median": 8,
+          "std_dev": 1.0,
+          "count": 3
+        },
+        "completeness": {
+          "mean": 6,
+          "median": 6,
+          "std_dev": 1.0,
+          "count": 3
+        }
+      },
+      "Quantum Physics": {
+        "accuracy": {
+          "mean": 9,
+          "median": 9,
+          "std_dev": 0.0,
+          "count": 3
+        },
+        "reasoning": {
+          "mean": 9,
+          "median": 9,
+          "std_dev": 0.0,
+          "count": 3
+        },
+        "completeness": {
+          "mean": 8,
+          "median": 8,
+          "std_dev": 0.0,
+          "count": 3
+        }
+      },
+      "Biology": {
+        "accuracy": {
+          "mean": 9,
+          "median": 9,
+          "std_dev": 0.0,
+          "count": 3
+        },
+        "reasoning": {
+          "mean": 9.333333333333334,
+          "median": 9,
+          "std_dev": 0.5773502691896257,
+          "count": 3
+        },
+        "completeness": {
+          "mean": 8,
+          "median": 8,
+          "std_dev": 0.0,
+          "count": 3
+        }
+      },
+      "Neuroscience": {
+        "accuracy": {
+          "mean": 7,
+          "median": 9,
+          "std_dev": 3.4641016151377544,
+          "count": 3
+        },
+        "reasoning": {
+          "mean": 8,
+          "median": 9,
+          "std_dev": 1.7320508075688772,
+          "count": 3
+        },
+        "completeness": {
+          "mean": 6,
+          "median": 8,
+          "std_dev": 3.4641016151377544,
+          "count": 3
+        }
+      },
+      "Classical Music": {
+        "accuracy": {
+          "mean": 8.333333333333334,
+          "median": 9,
+          "std_dev": 1.1547005383792515,
+          "count": 3
+        },
+        "reasoning": {
+          "mean": 9,
+          "median": 9,
+          "std_dev": 1.0,
+          "count": 3
+        },
+        "completeness": {
+          "mean": 7.333333333333333,
+          "median": 8,
+          "std_dev": 1.1547005383792515,
+          "count": 3
+        }
+      },
+      "Mythology": {
+        "accuracy": {
+          "mean": 8.666666666666666,
+          "median": 9,
+          "std_dev": 0.5773502691896257,
+          "count": 3
+        },
+        "reasoning": {
+          "mean": 9,
+          "median": 9,
+          "std_dev": 0.0,
+          "count": 3
+        },
+        "completeness": {
+          "mean": 7.333333333333333,
+          "median": 8,
+          "std_dev": 1.1547005383792515,
+          "count": 3
+        }
+      },
+      "Art History": {
+        "accuracy": {
+          "mean": 8.666666666666666,
+          "median": 9,
+          "std_dev": 0.5773502691896257,
+          "count": 3
+        },
+        "reasoning": {
+          "mean": 9,
+          "median": 9,
+          "std_dev": 0.0,
+          "count": 3
+        },
+        "completeness": {
+          "mean": 7.666666666666667,
+          "median": 8,
+          "std_dev": 0.5773502691896257,
+          "count": 3
+        }
+      },
+      "Political Theory": {
+        "accuracy": {
+          "mean": 9,
+          "median": 9,
+          "std_dev": 0.0,
+          "count": 3
+        },
+        "reasoning": {
+          "mean": 8.666666666666666,
+          "median": 9,
+          "std_dev": 0.5773502691896257,
+          "count": 3
+        },
+        "completeness": {
+          "mean": 7.666666666666667,
+          "median": 8,
+          "std_dev": 0.5773502691896257,
+          "count": 3
+        }
+      },
+      "Economics": {
+        "accuracy": {
+          "mean": 6.666666666666667,
+          "median": 9,
+          "std_dev": 4.041451884327381,
+          "count": 3
+        },
+        "reasoning": {
+          "mean": 6.333333333333333,
+          "median": 9,
+          "std_dev": 4.618802153517006,
+          "count": 3
+        },
+        "completeness": {
+          "mean": 6.333333333333333,
+          "median": 8,
+          "std_dev": 2.8867513459481287,
+          "count": 3
+        }
+      },
+      "Cryptography": {
+        "accuracy": {
+          "mean": 8.333333333333334,
+          "median": 9,
+          "std_dev": 1.1547005383792515,
+          "count": 3
+        },
+        "reasoning": {
+          "mean": 8.333333333333334,
+          "median": 8,
+          "std_dev": 0.5773502691896257,
+          "count": 3
+        },
+        "completeness": {
+          "mean": 7,
+          "median": 7,
+          "std_dev": 1.0,
+          "count": 3
+        }
+      },
+      "Linguistics": {
+        "accuracy": {
+          "mean": 9,
+          "median": 9,
+          "std_dev": 0.0,
+          "count": 3
+        },
+        "reasoning": {
+          "mean": 9,
+          "median": 9,
+          "std_dev": 0.0,
+          "count": 3
+        },
+        "completeness": {
+          "mean": 8,
+          "median": 8,
+          "std_dev": 0.0,
+          "count": 3
+        }
+      },
+      "Archaeology": {
+        "accuracy": {
+          "mean": 9.333333333333334,
+          "median": 9,
+          "std_dev": 0.5773502691896257,
+          "count": 3
+        },
+        "reasoning": {
+          "mean": 9,
+          "median": 9,
+          "std_dev": 1.0,
+          "count": 3
+        },
+        "completeness": {
+          "mean": 8,
+          "median": 8,
+          "std_dev": 1.0,
+          "count": 3
+        }
+      },
+      "Quantum Computing": {
+        "accuracy": {
+          "mean": 8.333333333333334,
+          "median": 9,
+          "std_dev": 1.1547005383792515,
+          "count": 3
+        },
+        "reasoning": {
+          "mean": 8,
+          "median": 9,
+          "std_dev": 1.7320508075688772,
+          "count": 3
+        },
+        "completeness": {
+          "mean": 6.666666666666667,
+          "median": 7,
+          "std_dev": 1.5275252316519468,
+          "count": 3
+        }
+      },
+      "Game Theory": {
+        "accuracy": {
+          "mean": 8.666666666666666,
+          "median": 9,
+          "std_dev": 0.5773502691896257,
+          "count": 3
+        },
+        "reasoning": {
+          "mean": 8.333333333333334,
+          "median": 9,
+          "std_dev": 1.1547005383792515,
+          "count": 3
+        },
+        "completeness": {
+          "mean": 7.666666666666667,
+          "median": 8,
+          "std_dev": 0.5773502691896257,
+          "count": 3
+        }
+      },
+      "Molecular Biology": {
+        "accuracy": {
+          "mean": 9.333333333333334,
+          "median": 9,
+          "std_dev": 0.5773502691896257,
+          "count": 3
+        },
+        "reasoning": {
+          "mean": 9,
+          "median": 9,
+          "std_dev": 0.0,
+          "count": 3
+        },
+        "completeness": {
+          "mean": 8,
+          "median": 8,
+          "std_dev": 0.0,
+          "count": 3
+        }
+      },
+      "Astronomy": {
+        "accuracy": {
+          "mean": 7,
+          "median": 9,
+          "std_dev": 3.4641016151377544,
+          "count": 3
+        },
+        "reasoning": {
+          "mean": 7,
+          "median": 9,
+          "std_dev": 4.358898943540674,
+          "count": 3
+        },
+        "completeness": {
+          "mean": 6.666666666666667,
+          "median": 8,
+          "std_dev": 2.309401076758503,
+          "count": 3
+        }
+      },
+      "Philosophy of Mind": {
+        "accuracy": {
+          "mean": 9.333333333333334,
+          "median": 9,
+          "std_dev": 0.5773502691896257,
+          "count": 3
+        },
+        "reasoning": {
+          "mean": 8.666666666666666,
+          "median": 9,
+          "std_dev": 0.5773502691896257,
+          "count": 3
+        },
+        "completeness": {
+          "mean": 8,
+          "median": 8,
+          "std_dev": 0.0,
+          "count": 3
+        }
+      },
+      "Mathematical Logic": {
+        "accuracy": {
+          "mean": 8,
+          "median": 8,
+          "std_dev": 1.0,
+          "count": 3
+        },
+        "reasoning": {
+          "mean": 7.666666666666667,
+          "median": 8,
+          "std_dev": 1.5275252316519468,
+          "count": 3
+        },
+        "completeness": {
+          "mean": 7,
+          "median": 7,
+          "std_dev": 0.0,
+          "count": 3
+        }
+      },
+      "Classical Studies": {
+        "accuracy": {
+          "mean": 9,
+          "median": 9,
+          "std_dev": 0.0,
+          "count": 3
+        },
+        "reasoning": {
+          "mean": 9,
+          "median": 9,
+          "std_dev": 0.0,
+          "count": 3
+        },
+        "completeness": {
+          "mean": 8,
+          "median": 8,
+          "std_dev": 0.0,
+          "count": 3
+        }
+      },
+      "Modern Physics": {
+        "accuracy": {
+          "mean": 9,
+          "median": 9,
+          "std_dev": 0.0,
+          "count": 3
+        },
+        "reasoning": {
+          "mean": 9,
+          "median": 9,
+          "std_dev": 0.0,
+          "count": 3
+        },
+        "completeness": {
+          "mean": 7.666666666666667,
+          "median": 8,
+          "std_dev": 0.5773502691896257,
+          "count": 3
+        }
+      },
+      "Cognitive Science": {
+        "accuracy": {
+          "mean": 9,
+          "median": 9,
+          "std_dev": 0.0,
+          "count": 3
+        },
+        "reasoning": {
+          "mean": 9,
+          "median": 9,
+          "std_dev": 0.0,
+          "count": 3
+        },
+        "completeness": {
+          "mean": 8,
+          "median": 8,
+          "std_dev": 0.0,
+          "count": 3
+        }
+      },
+      "Psychology": {
+        "accuracy": {
+          "mean": 9.333333333333334,
+          "median": 9,
+          "std_dev": 0.5773502691896257,
+          "count": 3
+        },
+        "reasoning": {
+          "mean": 9,
+          "median": 9,
+          "std_dev": 0.0,
+          "count": 3
+        },
+        "completeness": {
+          "mean": 8,
+          "median": 8,
+          "std_dev": 0.0,
+          "count": 3
+        }
+      },
+      "Musicology": {
+        "accuracy": {
+          "mean": 9,
+          "median": 9,
+          "std_dev": 0.0,
+          "count": 3
+        },
+        "reasoning": {
+          "mean": 9,
+          "median": 9,
+          "std_dev": 0.0,
+          "count": 3
+        },
+        "completeness": {
+          "mean": 8,
+          "median": 8,
+          "std_dev": 0.0,
+          "count": 3
+        }
+      },
+      "Film Theory": {
+        "accuracy": {
+          "mean": 8,
+          "median": 9,
+          "std_dev": 1.7320508075688772,
+          "count": 3
+        },
+        "reasoning": {
+          "mean": 8.333333333333334,
+          "median": 9,
+          "std_dev": 1.1547005383792515,
+          "count": 3
+        },
+        "completeness": {
+          "mean": 7.666666666666667,
+          "median": 8,
+          "std_dev": 0.5773502691896257,
+          "count": 3
+        }
+      },
+      "Literary Theory": {
+        "accuracy": {
+          "mean": 8,
+          "median": 9,
+          "std_dev": 1.7320508075688772,
+          "count": 3
+        },
+        "reasoning": {
+          "mean": 8.333333333333334,
+          "median": 8,
+          "std_dev": 1.5275252316519468,
+          "count": 3
+        },
+        "completeness": {
+          "mean": 7.666666666666667,
+          "median": 8,
+          "std_dev": 0.5773502691896257,
+          "count": 3
+        }
+      },
+      "Military History": {
+        "accuracy": {
+          "mean": 9,
+          "median": 9,
+          "std_dev": 0.0,
+          "count": 3
+        },
+        "reasoning": {
+          "mean": 9,
+          "median": 9,
+          "std_dev": 0.0,
+          "count": 3
+        },
+        "completeness": {
+          "mean": 8,
+          "median": 8,
+          "std_dev": 0.0,
+          "count": 3
+        }
+      },
+      "Architectural Theory": {
+        "accuracy": {
+          "mean": 9,
+          "median": 9,
+          "std_dev": 0.0,
+          "count": 3
+        },
+        "reasoning": {
+          "mean": 9,
+          "median": 9,
+          "std_dev": 0.0,
+          "count": 3
+        },
+        "completeness": {
+          "mean": 8,
+          "median": 8,
+          "std_dev": 0.0,
+          "count": 3
+        }
+      },
+      "Sociology": {
+        "accuracy": {
+          "mean": 9,
+          "median": 9,
+          "std_dev": 0.0,
+          "count": 3
+        },
+        "reasoning": {
+          "mean": 9.333333333333334,
+          "median": 9,
+          "std_dev": 0.5773502691896257,
+          "count": 3
+        },
+        "completeness": {
+          "mean": 8,
+          "median": 8,
+          "std_dev": 0.0,
+          "count": 3
+        }
+      },
+      "Paleontology": {
+        "accuracy": {
+          "mean": 9.333333333333334,
+          "median": 9,
+          "std_dev": 0.5773502691896257,
+          "count": 3
+        },
+        "reasoning": {
+          "mean": 9.333333333333334,
+          "median": 9,
+          "std_dev": 0.5773502691896257,
+          "count": 3
+        },
+        "completeness": {
+          "mean": 8.333333333333334,
+          "median": 8,
+          "std_dev": 0.5773502691896257,
+          "count": 3
+        }
+      },
+      "Robotics": {
+        "accuracy": {
+          "mean": 9,
+          "median": 9,
+          "std_dev": 0.0,
+          "count": 3
+        },
+        "reasoning": {
+          "mean": 9.333333333333334,
+          "median": 9,
+          "std_dev": 0.5773502691896257,
+          "count": 3
+        },
+        "completeness": {
+          "mean": 8,
+          "median": 8,
+          "std_dev": 0.0,
+          "count": 3
+        }
+      },
+      "Ethics": {
+        "accuracy": {
+          "mean": 9,
+          "median": 9,
+          "std_dev": 0.0,
+          "count": 3
+        },
+        "reasoning": {
+          "mean": 8.666666666666666,
+          "median": 9,
+          "std_dev": 0.5773502691896257,
+          "count": 3
+        },
+        "completeness": {
+          "mean": 8,
+          "median": 8,
+          "std_dev": 0.0,
+          "count": 3
+        }
+      },
+      "Animation": {
+        "accuracy": {
+          "mean": 8.333333333333334,
+          "median": 9,
+          "std_dev": 1.1547005383792515,
+          "count": 3
+        },
+        "reasoning": {
+          "mean": 8.666666666666666,
+          "median": 9,
+          "std_dev": 0.5773502691896257,
+          "count": 3
+        },
+        "completeness": {
+          "mean": 7.333333333333333,
+          "median": 8,
+          "std_dev": 1.1547005383792515,
+          "count": 3
+        }
+      }
+    },
+    "best_categories": [
+      "Paleontology",
+      "Literature",
+      "Biology"
+    ],
+    "worst_categories": [
+      "Astronomy",
+      "Economics",
+      "Ancient History"
+    ],
+    "total_questions": 114,
+    "error_count": 0,
+    "knowledge_compression_insights": {
+      "Ancient History": [
+        {
+          "question_index": 1,
+          "preserved": [
+            "Achilles' role as a warrior in the Trojan War",
+            "Patroclus' death at the hands of Hector",
+            "Achilles' grief and subsequent revenge",
+            "The importance of their relationship in Greek mythology",
+            "The themes of love, loss, and grief"
+          ],
+          "lost": [
+            "Nuance of the debate surrounding the nature of their relationship",
+            "Details of Achilles' initial withdrawal from battle",
+            "Variations in interpretations of their bond across different ancient sources",
+            "The political context of the Trojan War beyond a 'dispute over a woman'"
+          ],
+          "domain_handling": "Demonstrates good general knowledge of the Trojan War and the Achilles-Patroclus relationship, but lacks the depth and precision expected of a true expert. The answer leans towards a modern understanding and simplifies some historical complexities."
+        },
+        {
+          "question_index": 2,
+          "preserved": [
+            "Mention of Athens",
+            "Approximate dates (478-404 BCE)"
+          ],
+          "lost": [
+            "The League's formation as a response to the Persian Wars.",
+            "Its purpose as a military alliance against Persia.",
+            "Athens' dominant role and eventual transformation of the League into an Athenian empire.",
+            "The tribute system imposed on member states.",
+            "The League's eventual contribution to the Peloponnesian War."
+          ],
+          "domain_handling": "Demonstrates a profound misunderstanding of ancient Greek history and political structures. The answer displays a significant lack of domain expertise."
+        },
+        {
+          "question_index": 3,
+          "preserved": [
+            "Alexander died in Babylon in 323 BCE.",
+            "Illness likely played a role in his death.",
+            "Poisoning is a commonly proposed cause of death.",
+            "Political intrigue existed around Alexander's death."
+          ],
+          "lost": [
+            "The correct identity of the Persian king (Darius III).",
+            "The lack of evidence for a duel with Darius.",
+            "The contested nature of the poisoning theory and the lack of definitive proof.",
+            "The various theories regarding the illness (typhoid fever, pancreatitis, etc.).",
+            "The details of the power struggles among Alexander's generals after his death."
+          ],
+          "domain_handling": "Demonstrates a basic familiarity with the topic but contains significant historical inaccuracies, indicating a superficial understanding of ancient history and a failure to critically evaluate sources."
+        }
+      ],
+      "Physics": [
+        {
+          "question_index": 4,
+          "preserved": [
+            "Quantum vacuum fluctuations",
+            "Virtual particles",
+            "Role of conducting plates",
+            "Attractive force",
+            "Dependence on distance and area",
+            "Quantum field theory connection"
+          ],
+          "lost": [
+            "Mathematical formulation of the Casimir effect (e.g., the -\u03c0\u00b2\u0127c/240a\u2074 term)",
+            "Details of the experimental setup and challenges",
+            "Discussion of renormalization"
+          ],
+          "domain_handling": "Demonstrates strong understanding of the physics domain. The explanation uses appropriate terminology and conveys the concepts accurately, indicating a solid grasp of quantum mechanics and quantum field theory as it relates to the Casimir effect."
+        },
+        {
+          "question_index": 5,
+          "preserved": [
+            "Entanglement",
+            "Local Realism",
+            "Bell's Inequalities",
+            "Non-Locality",
+            "John Bell's contribution",
+            "Experimental Verification"
+          ],
+          "lost": [
+            "Specific mathematical formulation of Bell's inequalities",
+            "Detailed discussion of different interpretations of quantum mechanics",
+            "Historical context of the debate between Einstein and Bohr"
+          ],
+          "domain_handling": "Demonstrates strong understanding of quantum mechanics and its philosophical implications. The explanation is accurate and uses appropriate terminology without being overly technical."
+        },
+        {
+          "question_index": 6,
+          "preserved": [
+            "Superconductivity and zero resistance",
+            "Cooper pairs",
+            "Magnetic field expulsion",
+            "Critical temperature",
+            "Quantum mechanical origin"
+          ],
+          "lost": [
+            "London penetration depth",
+            "Type I vs. Type II superconductors",
+            "Mathematical description of the effect (e.g., London equations)",
+            "Flux pinning"
+          ],
+          "domain_handling": "Demonstrates strong understanding of the physics of superconductivity and the Meissner effect, using appropriate terminology and concepts. The explanation is accurate and avoids oversimplification to the point of being incorrect."
+        }
+      ],
+      "Mathematics": [
+        {
+          "question_index": 7,
+          "preserved": [
+            "Core concepts of the First and Second Incompleteness Theorems",
+            "Importance of formal systems",
+            "Role of self-reference",
+            "Impact on the foundations of mathematics"
+          ],
+          "lost": [
+            "Details of G\u00f6del numbering",
+            "Diagonalization argument",
+            "G\u00f6del's consistency theorem",
+            "Formal representation of the unprovable statement"
+          ],
+          "domain_handling": "Demonstrates a good understanding of the mathematical logic domain, but contains minor inaccuracies suggesting a reliance on simplified explanations rather than deep technical knowledge."
+        },
+        {
+          "question_index": 8,
+          "preserved": [
+            "Prime number distribution",
+            "Riemann zeta function (implied)",
+            "Prime Number Theorem",
+            "Cryptography and prime numbers",
+            "Quantum Chaos connection",
+            "Unsolved problem status"
+          ],
+          "lost": [
+            "Mathematical formulation of the Riemann Hypothesis (zeta function and its zeros)",
+            "Details of the connection to quantum chaos (specific systems)",
+            "Specific cryptographic algorithms affected"
+          ],
+          "domain_handling": "Demonstrates strong understanding of the mathematical concepts at a conceptual level, suitable for a general audience. Avoids overly technical jargon while still conveying the core ideas accurately."
+        },
+        {
+          "question_index": 9,
+          "preserved": [
+            "Self-similarity",
+            "Iterative process definition",
+            "Connection to complex numbers",
+            "Role of Beno\u00eet Mandelbrot",
+            "Visual complexity",
+            "Fractal geometry foundation"
+          ],
+          "lost": [
+            "Connection to Julia sets",
+            "Complex dynamics",
+            "Concept of connectedness",
+            "Mathematical formula used (z = z^2 + c)",
+            "Escape time algorithm"
+          ],
+          "domain_handling": "Demonstrates good understanding of the core concepts within fractal geometry and the Mandelbrot set, but lacks the depth expected from a true expert. The explanation is accessible but simplifies some of the underlying mathematical complexities."
+        }
+      ],
+      "Computer Science": [
+        {
+          "question_index": 10,
+          "preserved": [
+            "Core concept of the Byzantine Generals Problem",
+            "Importance of distributed consensus",
+            "Role of malicious actors",
+            "Concept of Byzantine Fault Tolerance",
+            "Relationship to blockchain technology"
+          ],
+          "lost": [
+            "Detailed explanation of specific BFT algorithms",
+            "Mathematical underpinnings of voting schemes",
+            "Specific limitations of different consensus mechanisms regarding BFT"
+          ],
+          "domain_handling": "Demonstrates strong understanding of the domain. The explanation is accurate and uses appropriate terminology. The offer to elaborate further indicates a deeper knowledge base."
+        },
+        {
+          "question_index": 11,
+          "preserved": [
+            "The concept of nodes maintaining a clock value.",
+            "The idea of using timestamps to track events.",
+            "The goal of detecting potential concurrency issues."
+          ],
+          "lost": [
+            "The 'happened-before' relation.",
+            "The rule for incrementing the clock (on internal events and message sends).",
+            "The correct interpretation of timestamp comparisons (causality, not just equality).",
+            "The algorithm's purpose is to provide a *partial* ordering of events, not total synchronization."
+          ],
+          "domain_handling": "Demonstrates a basic understanding of distributed systems concepts but lacks the depth required to accurately explain the Lamport clock algorithm. The explanation is simplified to the point of being misleading in several key areas."
+        },
+        {
+          "question_index": 12,
+          "preserved": [
+            "Core concepts of Consistency, Availability, and Partition Tolerance.",
+            "Trade-offs inherent in distributed database design.",
+            "Impact of network partitions.",
+            "Relevance of consensus algorithms.",
+            "Application-specific prioritization of CAP principles."
+          ],
+          "lost": [
+            "Nuances of different consistency models beyond 'strong consistency' (e.g., causal consistency).",
+            "Detailed explanation of how CAP impacts specific database technologies (e.g., Cassandra, MongoDB).",
+            "The PACELC theorem."
+          ],
+          "domain_handling": "Demonstrates strong domain expertise in distributed systems and database theory. The answer accurately reflects the core principles of the CAP theorem and its practical implications, using appropriate terminology and providing relevant examples."
+        }
+      ],
+      "Film Analysis": [
+        {
+          "question_index": 13,
+          "preserved": [
+            "Jungian psychology connection",
+            "Symbolism of the subconscious",
+            "Dream structure and collapse",
+            "Cobb's trauma and control",
+            "Ambiguity of the ending"
+          ],
+          "lost": [
+            "Detailed explanation of the totem's rules (though implied)",
+            "Discussion of the film's broader philosophical implications beyond the dream world",
+            "Specific examples from the film illustrating the top's use"
+          ],
+          "domain_handling": "Demonstrates strong understanding of film analysis principles and the specific context of *Inception*. The use of psychological theory is appropriate and enhances the analysis."
+        },
+        {
+          "question_index": 14,
+          "preserved": [
+            "Non-linear narrative structure",
+            "Leonard's anterograde amnesia",
+            "Unreliable narrator concept",
+            "Psychological impact of memory loss",
+            "Obsessive behavior",
+            "Subjectivity of memory"
+          ],
+          "lost": [
+            "Detailed discussion of the color/black and white sequence significance",
+            "Specific examples of contradictory scenes and their impact",
+            "Exploration of the film's philosophical implications beyond psychology"
+          ],
+          "domain_handling": "Demonstrates strong domain expertise in film analysis and psychological interpretation. The response uses appropriate terminology and concepts relevant to the film and its themes."
+        },
+        {
+          "question_index": 15,
+          "preserved": [
+            "Symbolism of the Stalker and the Fox",
+            "Symbolism of the Zone/Dead Forest",
+            "Symbolism of the 'Other' and the Village",
+            "Symbolism of the Mirror",
+            "Symbolism of the River",
+            "Tarkovsky's artistic intent regarding ambiguity",
+            "Symbolism of the Bridge/Stone",
+            "Use of color (Red)"
+          ],
+          "lost": [
+            "Detailed analysis of the train tracks' symbolism",
+            "Nuances of the Zone's creation and its relationship to human desire",
+            "The significance of the objects left behind by previous visitors"
+          ],
+          "domain_handling": "Demonstrates strong domain expertise in Tarkovsky's filmography and the conventions of film symbolism. The analysis reflects a deep understanding of the film's themes and its place within the broader context of art cinema."
+        }
+      ],
+      "Literature": [
+        {
+          "question_index": 16,
+          "preserved": [
+            "Definition of stream of consciousness",
+            "Key examples from *Ulysses* (Bloom's thoughts, the green light motif)",
+            "Impact on literary modernism",
+            "Psychological depth achieved through the technique"
+          ],
+          "lost": [
+            "Detailed discussion of Joyce's experimental punctuation and syntax.",
+            "Nuances of the technique's relationship to philosophical ideas of subjectivity and time."
+          ],
+          "domain_handling": "Demonstrates strong domain expertise in literary analysis and a clear understanding of James Joyce's work and the modernist movement. The response uses appropriate terminology and provides insightful observations."
+        },
+        {
+          "question_index": 17,
+          "preserved": [
+            "Connection to post-WWI disillusionment",
+            "Symbolism of barren landscapes and ruins",
+            "Thematic focus on loss of faith and existential angst",
+            "Influence of medieval literature"
+          ],
+          "lost": [
+            "Specific allusions within *The Waste Land* poem itself (e.g., Tiresias, Madame Sosostris)",
+            "Detailed discussion of the Fisher King myth",
+            "Nuances of Eliot's use of multiple languages and literary styles"
+          ],
+          "domain_handling": "Demonstrates strong understanding of literary analysis and T.S. Eliot's work. The response uses appropriate terminology and demonstrates a nuanced grasp of the subject matter."
+        },
+        {
+          "question_index": 18,
+          "preserved": [
+            "Definition of magical realism",
+            "Connection to Latin American history and politics",
+            "Symbolic function of fantastical elements",
+            "Impact on reader expectation",
+            "Role in representing memory and time"
+          ],
+          "lost": [
+            "Specific examples of magical realism from his novels",
+            "Discussion of the historical context of the rise of magical realism in Latin American literature"
+          ],
+          "domain_handling": "Demonstrates strong domain expertise in Latin American literature and a clear understanding of the nuances of magical realism as a literary technique."
+        }
+      ],
+      "Philosophy": [
+        {
+          "question_index": 19,
+          "preserved": [
+            "Being-in-the-World",
+            "Temporality and Being-towards-Death",
+            "Historical and Practical Understanding",
+            "Dasein as a pre-reflective mode of being",
+            "The importance of possibility and projection"
+          ],
+          "lost": [
+            "Fallenness (Verfallenheit)",
+            "Authenticity (Eigentlichkeit)",
+            "The role of 'the Other' (Mitsein)",
+            "The distinction between 'present-at-hand' (Vorhandenheit) and 'ready-to-hand' (Zuhandenheit)",
+            "Detailed explanation of existential anxiety (Angst)"
+          ],
+          "domain_handling": "Demonstrates a solid grasp of Heideggerian terminology and concepts, though with some minor inaccuracies and omissions. The answer shows familiarity with the core ideas of *Being and Time* and presents them in an accessible manner, but lacks the nuance expected of an expert-level analysis."
+        },
+        {
+          "question_index": 20,
+          "preserved": [
+            "Language as a tool",
+            "Meaning derived from use",
+            "Contextual nature of meaning",
+            "Language constructs reality"
+          ],
+          "lost": [
+            "The beetle in the box thought experiment",
+            "The problem of rule-following",
+            "The specific focus on a *single individual's* language",
+            "The connection to skepticism about other minds",
+            "The argument's ultimate conclusion: a private language is logically impossible"
+          ],
+          "domain_handling": "Demonstrates a general understanding of Wittgenstein's philosophy of language but exhibits a critical error in attributing the argument to the wrong work and misinterpreting a core concept, indicating a need for more precise knowledge of the domain."
+        },
+        {
+          "question_index": 21,
+          "preserved": [
+            "Rejection of dualism",
+            "Concept of a single underlying reality",
+            "Influence on process philosophy"
+          ],
+          "lost": [
+            "The concept of attributes (thought and extension)",
+            "The role of modes as modifications of attributes",
+            "The idea of God or Nature (Deus sive Natura)",
+            "The deterministic nature of Spinoza's system",
+            "The importance of understanding substance through its attributes, not a separate 'Root'"
+          ],
+          "domain_handling": "Demonstrates a basic familiarity with Spinoza's philosophy but exhibits significant inaccuracies and oversimplifications, indicating a limited depth of domain expertise."
+        }
+      ],
+      "Quantum Physics": [
+        {
+          "question_index": 22,
+          "preserved": [
+            "Quantum tunneling definition",
+            "Electrostatic repulsion",
+            "Plasma state",
+            "Nuclear fusion requirements",
+            "Wave function concept (implicitly)",
+            "Probability-based nature of quantum mechanics"
+          ],
+          "lost": [
+            "Gamow factor",
+            "Temperature dependence of tunneling probability",
+            "Detailed explanation of the wave function and its role in tunneling",
+            "Specific fusion reactions (e.g., proton-proton chain)"
+          ],
+          "domain_handling": "Demonstrates strong understanding of quantum physics and stellar processes. The explanation is accurate and avoids common misconceptions, while remaining accessible."
+        },
+        {
+          "question_index": 23,
+          "preserved": [
+            "Superposition",
+            "Wave function collapse",
+            "Copenhagen interpretation",
+            "Many-Worlds interpretation",
+            "Objective collapse theories",
+            "The central paradox of measurement"
+          ],
+          "lost": [
+            "Decoherence (a key mechanism often discussed alongside the measurement problem)",
+            "Details of the mathematical formalism (Schr\u00f6dinger equation, etc.) - appropriate for a concise explanation",
+            "Specific experimental setups that highlight the problem (e.g., double-slit experiment)"
+          ],
+          "domain_handling": "Demonstrates strong understanding of quantum mechanics and accurately conveys complex concepts in an accessible manner. The disclaimer further reinforces responsible domain handling by acknowledging the simplification inherent in the explanation."
+        },
+        {
+          "question_index": 24,
+          "preserved": [
+            "Definition of decoherence",
+            "Role of the environment in decoherence",
+            "Entanglement as a key mechanism",
+            "Wavefunction collapse",
+            "Decoherence as a process, not an event",
+            "Disturbance caused by measurement"
+          ],
+          "lost": [
+            "Mathematical formulation (density matrix)",
+            "Specific decoherence times (T1, T2)",
+            "Different types of environments and their impact"
+          ],
+          "domain_handling": "Demonstrates strong understanding of quantum physics concepts, using appropriate terminology and avoiding oversimplification while remaining accessible. The inclusion of relevant Wikipedia links further supports domain expertise."
+        }
+      ],
+      "Biology": [
+        {
+          "question_index": 25,
+          "preserved": [
+            "Telomere structure and function",
+            "Telomere shortening with cell division",
+            "Cellular senescence",
+            "Genomic instability",
+            "Cancer cell proliferation and apoptosis evasion",
+            "Telomere length and cancer progression"
+          ],
+          "lost": [
+            "Hayflick limit",
+            "Detailed mechanisms of telomere shortening (e.g., end replication problem)",
+            "Specific types of cancers linked to telomere dysfunction",
+            "Detailed explanation of telomerase activity"
+          ],
+          "domain_handling": "Demonstrates strong understanding of the biological domain, using appropriate terminology and accurately representing complex processes. The answer is well-informed and reflects current scientific understanding."
+        },
+        {
+          "question_index": 26,
+          "preserved": [
+            "Cas9 enzyme function",
+            "Guide RNA targeting mechanism",
+            "Non-Homologous End Joining (NHEJ)",
+            "Homology-Directed Repair (HDR)",
+            "DNA double-strand break repair"
+          ],
+          "lost": [
+            "PAM sequence requirement",
+            "Details of Cas9 protein structure",
+            "Different Cas9 orthologs (e.g., Cas12a)",
+            "Protospacer adjacent motif (PAM) details"
+          ],
+          "domain_handling": "Demonstrates strong understanding of molecular biology and gene editing techniques. The explanation is accurate and uses appropriate terminology."
+        },
+        {
+          "question_index": 27,
+          "preserved": [
+            "Definition of epigenetic inheritance",
+            "DNA methylation",
+            "Histone modification",
+            "Parental influence on offspring",
+            "Transgenerational effects",
+            "Potential medical applications"
+          ],
+          "lost": [
+            "Specific examples of diseases linked to epigenetic inheritance (e.g., Prader-Willi syndrome)",
+            "Details on how epigenetic marks are reset during gametogenesis",
+            "Discussion of genomic imprinting"
+          ],
+          "domain_handling": "Demonstrates strong understanding of the biological domain, using appropriate terminology and accurately representing current scientific understanding. The answer reflects a nuanced view, acknowledging areas of ongoing research."
+        }
+      ],
+      "Neuroscience": [
+        {
+          "question_index": 28,
+          "preserved": [
+            "Glutamate's role as an excitatory neurotransmitter",
+            "NMDA receptor activation and its dependence on depolarization",
+            "Calcium influx as a key trigger",
+            "AMPA receptor expression and density increase",
+            "Synaptic structural changes",
+            "LTP's role in memory consolidation"
+          ],
+          "lost": [
+            "Detailed explanation of protein kinase cascades (e.g., CaMKII)",
+            "Different phases of LTP (E-LTP vs. L-LTP)",
+            "The role of retrograde messengers",
+            "Specific gene expression involved"
+          ],
+          "domain_handling": "Demonstrates strong understanding of the neuroscience domain, accurately representing complex synaptic processes in an accessible manner. The inclusion of further reading resources adds to the credibility."
+        },
+        {
+          "question_index": 29,
+          "preserved": [
+            "Key brain regions involved in the DMN",
+            "DMN activity during rest/internal thought",
+            "Role in self-referential processing",
+            "Role in mental simulation",
+            "Role in theory of mind",
+            "Role in narrative construction",
+            "DMN as a facilitator of consciousness"
+          ],
+          "lost": [
+            "Detailed explanation of the functional connectivity within the DMN",
+            "Discussion of DMN disruption in neurological disorders",
+            "Specific neurochemical processes related to DMN activity",
+            "The distinction between different sub-networks within the DMN"
+          ],
+          "domain_handling": "Demonstrates strong domain expertise in neuroscience, accurately representing current understanding of the DMN and its relationship to consciousness. The language is precise and avoids common misconceptions."
+        },
+        {
+          "question_index": 30,
+          "preserved": [
+            "Neural oscillations as a potential mechanism.",
+            "Role of ventral striatum and posterior parietal cortex.",
+            "Potential involvement of dopamine and serotonin.",
+            "The subjective nature of the experience."
+          ],
+          "lost": [
+            "Grapheme-color synesthesia",
+            "Sound-color synesthesia",
+            "Lexical-gustatory synesthesia",
+            "Mirror-touch synesthesia",
+            "Historical context of synesthesia research",
+            "Prevalence rates of different synesthetic types",
+            "Cognitive benefits/drawbacks of synesthesia",
+            "Developmental aspects of synesthesia"
+          ],
+          "domain_handling": "The answer demonstrates a limited and skewed understanding of the neuroscience of synesthesia. It appears to have fixated on a recent and relatively obscure area of research (VCM) and incorrectly generalized it to the entire field. The domain expertise is therefore weak and misdirected."
+        }
+      ],
+      "Classical Music": [
+        {
+          "question_index": 31,
+          "preserved": [
+            "Understanding of fugal structure",
+            "Recognition of counterpoint and imitation",
+            "Awareness of Bach's harmonic innovation",
+            "Identification of key structural features like fragmentation and modulation"
+          ],
+          "lost": [
+            "Accurate description of individual movements (Nos. 2, 4)",
+            "Understanding of the significance of the unfinished final fugue",
+            "Detailed knowledge of specific contrapuntal techniques (stretto, inversion)",
+            "Nuance regarding the 'Impromptu' (No. 9)'s role"
+          ],
+          "domain_handling": "Demonstrates good general knowledge of Baroque music and Bach's compositional techniques, but lacks the depth of understanding required for a truly expert analysis. The response shows familiarity with the terminology but misapplies it in certain instances."
+        },
+        {
+          "question_index": 32,
+          "preserved": [
+            "Rhythmic innovations (polyrhythms, fragmentation, syncopation)",
+            "Harmonic innovations (dissonance, lack of traditional progression)",
+            "Orchestral innovations (brass/percussion emphasis, unusual timbres)",
+            "Historical significance and impact on modern music"
+          ],
+          "lost": [
+            "Specific examples of rhythmic patterns (e.g., additive rhythms)",
+            "Detailed explanation of bitonality",
+            "The role of Nijinsky's choreography in the premiere's shock value",
+            "Influence of Russian folk music"
+          ],
+          "domain_handling": "Demonstrates strong domain expertise in classical music, specifically 20th-century music and Stravinsky. The terminology is used correctly and the explanations are insightful."
+        },
+        {
+          "question_index": 33,
+          "preserved": [
+            "Definition of leitmotifs",
+            "Narrative function of leitmotifs",
+            "Emotional impact of leitmotifs",
+            "Connection to character development",
+            "Thematic unity created by leitmotifs",
+            "Dynamic nature of leitmotifs"
+          ],
+          "lost": [
+            "Detailed analysis of specific motif transformations (e.g., Valhalla motif)",
+            "Discussion of the influence of Schopenhauer's philosophy on Wagner's use of leitmotifs",
+            "Technical details of the compositional techniques used to develop the leitmotifs"
+          ],
+          "domain_handling": "Demonstrates strong domain expertise in classical music, specifically Wagnerian opera. The answer uses appropriate terminology and accurately reflects scholarly understanding of leitmotifs."
+        }
+      ],
+      "Mythology": [
+        {
+          "question_index": 34,
+          "preserved": [
+            "Core narratives of Gilgamesh and Noah's Ark",
+            "Key differences in cause, divine role, and human response",
+            "Shared elements of divine intervention and renewal",
+            "Literary style differences"
+          ],
+          "lost": [
+            "Nuances of Tammuz's role in the Mesopotamian flood",
+            "Discussion of the scope of the flood in different Mesopotamian accounts",
+            "Potential influence of Mesopotamian myths on the Biblical narrative",
+            "Details about the post-flood world in each tradition"
+          ],
+          "domain_handling": "Demonstrates strong domain expertise in mythology, specifically regarding Mesopotamian and Biblical traditions. The response accurately reflects the core elements of each myth and provides a thoughtful comparison."
+        },
+        {
+          "question_index": 35,
+          "preserved": [
+            "Theft of fire from the gods",
+            "Gift of knowledge to humanity (agriculture, metalworking, writing)",
+            "Prometheus as a Titan",
+            "Prometheus's defiance of Zeus",
+            "Prometheus as a symbol of rebellion",
+            "The Titanomachy (though with a minor inaccuracy)"
+          ],
+          "lost": [
+            "The creation of Pandora and its connection to Prometheus's actions",
+            "Details of Prometheus's eternal punishment (liver regeneration)",
+            "The specific motivations of Zeus beyond simply fearing Prometheus's power"
+          ],
+          "domain_handling": "Demonstrates strong understanding of Greek mythology, accurately portraying the core narrative and symbolic weight of the Prometheus myth, with a minor factual error regarding the Titanomachy."
+        },
+        {
+          "question_index": 36,
+          "preserved": [
+            "Raven as a messenger of the spirit",
+            "Raven as a prophet/oracle",
+            "Raven's association with death and the underworld",
+            "Raven as a trickster (though understated)",
+            "Cultural variation in interpretation"
+          ],
+          "lost": [
+            "Raven as a creator figure (especially in Pacific Northwest Coast mythology)",
+            "Raven stealing light/fire for humanity (a key narrative)",
+            "Detailed specifics of Raven's creation stories",
+            "The complex relationship between Raven and other mythological beings in different cultures"
+          ],
+          "domain_handling": "Demonstrates good general knowledge of Native American mythology, but lacks depth and balance across different cultural regions. The focus is disproportionately on the Eastern Woodlands, neglecting the more prominent role of Raven in the Pacific Northwest."
+        }
+      ],
+      "Art History": [
+        {
+          "question_index": 37,
+          "preserved": [
+            "Importance of lenses in achieving focus.",
+            "Vermeer's mastery of light and shadow.",
+            "Creation of depth through the camera obscura.",
+            "Use of a limited color palette.",
+            "The idea that Vermeer wasn't merely copying an image."
+          ],
+          "lost": [
+            "Discussion of the limitations of the camera obscura.",
+            "Details about the specific types of lenses Vermeer might have used.",
+            "The debate surrounding the degree of Vermeer's reliance on the camera obscura.",
+            "The practical challenges of long exposure times and color reproduction with early camera obscuras."
+          ],
+          "domain_handling": "Demonstrates good understanding of art history and Vermeer's techniques, but presents some interpretations as established facts rather than theories. Shows awareness of the topic but lacks nuanced scholarly depth."
+        },
+        {
+          "question_index": 38,
+          "preserved": [
+            "Challenge to traditional art values",
+            "Readymade concept",
+            "Shift in focus to the object",
+            "Precursor to Conceptual Art",
+            "Impact on art definition and merit"
+          ],
+          "lost": [
+            "Specific details of the original submission and rejection by the Society of Independent Artists",
+            "The pseudonym 'R. Mutt' and its significance"
+          ],
+          "domain_handling": "Demonstrates strong understanding of art history and the context of early 20th-century art movements. The response accurately reflects scholarly interpretations of Duchamp's work and its lasting influence."
+        },
+        {
+          "question_index": 39,
+          "preserved": [
+            "Fragmentation of form",
+            "Geometric reduction",
+            "Multiple perspectives",
+            "Limited color palette",
+            "Abstraction",
+            "Influence on later movements"
+          ],
+          "lost": [
+            "Influence of Paul Cezanne",
+            "Influence of African art/Primitivism",
+            "The role of simultaneity in perception"
+          ],
+          "domain_handling": "Demonstrates strong understanding of art historical concepts and terminology related to Cubism. The explanation is nuanced and avoids oversimplification."
+        }
+      ],
+      "Political Theory": [
+        {
+          "question_index": 40,
+          "preserved": [
+            "Core concept of the Veil of Ignorance",
+            "Importance of fairness and justice",
+            "The idea of decision-making under uncertainty",
+            "Focus on the least advantaged",
+            "Connection to Rawls's *A Theory of Justice*"
+          ],
+          "lost": [
+            "The Difference Principle",
+            "Detailed explanation of the 'maximin' rule",
+            "Nuances of the original position (e.g., rational self-interest, publicity)"
+          ],
+          "domain_handling": "Demonstrates a good understanding of political theory, specifically Rawls's work. The explanation is generally accurate and uses appropriate terminology, but the omission of the Difference Principle indicates a slightly incomplete grasp of the full theory."
+        },
+        {
+          "question_index": 41,
+          "preserved": [
+            "Core concept of wealth/power concentration",
+            "Role of social stratification",
+            "Importance of democratic institutions",
+            "Historical examples",
+            "Michels' original intent as a tendency"
+          ],
+          "lost": [
+            "Specific details of Michels' original work (e.g., psychological factors contributing to leadership emergence)",
+            "Discussion of the criticisms of the Iron Law"
+          ],
+          "domain_handling": "Demonstrates strong understanding of political theory, specifically the concepts of oligarchy and power dynamics. The inclusion of links to the Stanford Encyclopedia of Philosophy and Wikipedia further validates the domain expertise."
+        },
+        {
+          "question_index": 42,
+          "preserved": [
+            "Normalization as a key mechanism",
+            "Disciplinary and regulatory power",
+            "Historical context of emergence",
+            "Examples of biopower in action",
+            "Shift from sovereign power"
+          ],
+          "lost": [
+            "The specific link between biopower and racism",
+            "Detailed discussion of 'life' as a political object",
+            "The concept of 'governmentality' as related to biopower"
+          ],
+          "domain_handling": "Demonstrates strong domain expertise, accurately representing Foucault's complex ideas in an accessible manner. The answer avoids common misinterpretations and showcases a solid grasp of the relevant theoretical concepts."
+        }
+      ],
+      "Economics": [
+        {
+          "question_index": 43,
+          "preserved": [
+            "Basic understanding of inflation as a rise in prices.",
+            "Recognition of the money supply as a factor influencing inflation."
+          ],
+          "lost": [
+            "The actual Mundell-Fleming trilemma and its components.",
+            "Historical accuracy regarding economic experiments.",
+            "Understanding of monetary policy mechanisms.",
+            "Any accurate information about Ludwig Mundell's work."
+          ],
+          "domain_handling": "The response demonstrates a profound misunderstanding of the economics domain. It fabricates information and misrepresents established economic concepts. The attempt to discuss monetary policy is severely flawed due to the false foundation."
+        },
+        {
+          "question_index": 44,
+          "preserved": [
+            "Inputs to the Black-Scholes model (S, K, T, r, volatility)",
+            "The Black-Scholes formula itself",
+            "The role of the cumulative standard normal distribution",
+            "The concept of 'in the money'",
+            "The theoretical nature of the model"
+          ],
+          "lost": [
+            "Detailed explanation of d1 and d2 calculations",
+            "Assumptions of the model",
+            "Put option formula",
+            "Discussion of Greeks (Delta, Gamma, etc.)"
+          ],
+          "domain_handling": "Demonstrates strong domain expertise in financial economics, specifically options pricing. The explanation is accurate and uses appropriate terminology. The disclaimer further reinforces responsible knowledge handling."
+        },
+        {
+          "question_index": 45,
+          "preserved": [
+            "Core principle of the Coase Theorem",
+            "Role of transaction costs",
+            "Impact on efficiency",
+            "Applications in law and policy",
+            "Importance of private bargaining"
+          ],
+          "lost": [
+            "Detailed discussion of limitations (e.g., asymmetric information, wealth effects)",
+            "Nuances of property rights definition",
+            "Mathematical representation of the theorem"
+          ],
+          "domain_handling": "Demonstrates strong understanding of economic principles and their application to legal and policy contexts. The explanation is accurate and reflects a solid grasp of the subject matter."
+        }
+      ],
+      "Cryptography": [
+        {
+          "question_index": 46,
+          "preserved": [
+            "Core definition of ZKPs",
+            "Completeness, Soundness, Zero-Knowledge properties",
+            "Applications in authentication, blockchain, and identity",
+            "The concept of a prover and verifier"
+          ],
+          "lost": [
+            "Specific ZKP protocols (e.g., Schnorr, Sigma)",
+            "Mathematical details of how knowledge is hidden",
+            "Interactive vs. Non-interactive ZKPs",
+            "The role of randomness in ZKPs"
+          ],
+          "domain_handling": "Demonstrates good understanding of the cryptographic domain, but simplifies concepts for broader accessibility, resulting in some loss of technical detail."
+        },
+        {
+          "question_index": 47,
+          "preserved": [
+            "RSA relies on the difficulty of factoring large numbers.",
+            "Two large prime numbers are used.",
+            "Public and private keys are involved.",
+            "Encryption and decryption processes exist."
+          ],
+          "lost": [
+            "The specific mathematical formulas for key generation (including Euler's totient function).",
+            "The role of modular exponentiation.",
+            "The relationship between the public exponent (e), the private exponent (d), and the modulus (n).",
+            "How knowing p and q allows for the calculation of the private key."
+          ],
+          "domain_handling": "Demonstrates a basic understanding of cryptography and RSA, but lacks the precision and depth expected of an expert. The answer is more conceptual than technical."
+        },
+        {
+          "question_index": 48,
+          "preserved": [
+            "Security based on quantum mechanics",
+            "Eavesdropping detection capabilities",
+            "Theoretical unbreakable key exchange",
+            "Applications in government, finance, and infrastructure",
+            "Current limitations of cost and range",
+            "Mention of BB84 protocol"
+          ],
+          "lost": [
+            "Detailed explanation of quantum states (qubits)",
+            "Specifics of error correction in QKD",
+            "Discussion of different types of attacks beyond simple eavesdropping",
+            "Role of single photon sources and detectors"
+          ],
+          "domain_handling": "Demonstrates strong understanding of the cryptography domain, specifically quantum cryptography. The explanation is accurate and avoids common misconceptions."
+        }
+      ],
+      "Linguistics": [
+        {
+          "question_index": 49,
+          "preserved": [
+            "Innate language faculty",
+            "Principles and Parameters",
+            "Universal Grammar as a set of underlying principles",
+            "Statistical learning",
+            "Language acquisition process",
+            "The debate surrounding UG"
+          ],
+          "lost": [
+            "Poverty of the Stimulus argument",
+            "Detailed examples of specific parameters (e.g., pro-drop parameter)",
+            "Discussion of modularity of mind"
+          ],
+          "domain_handling": "Demonstrates strong domain expertise in linguistics, accurately representing Chomsky's theory and its context within the field. The language used is precise and avoids oversimplification while remaining accessible."
+        },
+        {
+          "question_index": 50,
+          "preserved": [
+            "Definition of grammaticalization",
+            "Mechanisms of change (semantic shift, syntactic change, pragmatic shifts)",
+            "Examples of grammaticalization in different language families",
+            "Non-linearity of the process"
+          ],
+          "lost": [
+            "Detailed explanation of frequency effects",
+            "Discussion of analogy's role",
+            "Mention of reanalysis as a key process",
+            "Specific theoretical frameworks (e.g., Hopper's iconicity principle)"
+          ],
+          "domain_handling": "Demonstrates strong domain expertise in historical linguistics and grammaticalization. The examples are well-chosen and accurately represent the process. The answer avoids oversimplification while remaining accessible."
+        },
+        {
+          "question_index": 51,
+          "preserved": [
+            "Definition of Sapir-Whorf hypothesis",
+            "Distinction between strong and weak versions",
+            "Historical origins (Sapir & Whorf)",
+            "Examples of linguistic relativity (Inuit, color terms)",
+            "Current academic standing (weak version favored)"
+          ],
+          "lost": [
+            "Nuances of specific criticisms of the hypothesis",
+            "Details of experimental methodologies used in research",
+            "Discussion of universal grammar as a counterargument"
+          ],
+          "domain_handling": "Demonstrates strong understanding of linguistic theory and the historical development of the Sapir-Whorf hypothesis. The explanation is accurate and reflects current scholarly understanding of the topic."
+        }
+      ],
+      "Archaeology": [
+        {
+          "question_index": 52,
+          "preserved": [
+            "Oldest known analog computer",
+            "Astronomical prediction capabilities (sun, moon, planets, eclipses)",
+            "Complex gear system",
+            "Evidence of advanced ancient knowledge",
+            "Lost technology and ongoing research"
+          ],
+          "lost": [
+            "Specific details about the manufacturing techniques",
+            "The exact societal role of the mechanism (who used it and why)",
+            "The full extent of its capabilities (some functions are still being discovered)",
+            "Details about the specific school of thought or individual responsible for its creation"
+          ],
+          "domain_handling": "Demonstrates strong domain expertise in archaeology and the history of science/technology. The answer uses appropriate terminology and accurately reflects the current understanding of the Antikythera Mechanism."
+        },
+        {
+          "question_index": 53,
+          "preserved": [
+            "Tree ring formation and annual growth.",
+            "Influence of environmental factors on ring width.",
+            "Pattern matching against existing chronologies.",
+            "Statistical analysis for dating.",
+            "Correlation with historical records.",
+            "Limitations of the method (time range).",
+            "Data requirements and expertise needed."
+          ],
+          "lost": [
+            "Details about specific statistical methods used.",
+            "Discussion of species-specific chronologies.",
+            "Challenges related to wood preservation and sample selection (heartwood/sapwood).",
+            "Geographic limitations (some regions have less developed chronologies)."
+          ],
+          "domain_handling": "Demonstrates strong understanding of archaeological science and the principles of dendrochronology. The explanation is accurate and uses appropriate terminology."
+        },
+        {
+          "question_index": 54,
+          "preserved": [
+            "Importance of parallel texts",
+            "Role of Ancient Greek",
+            "Decipherment of hieroglyphs",
+            "Contribution of Jean-Fran\u00e7ois Champollion",
+            "Impact on understanding Egyptian history and culture"
+          ],
+          "lost": [
+            "Details of the stone's discovery during Napoleon's Egyptian campaign",
+            "Specific challenges faced during the decipherment process beyond the basic concept"
+          ],
+          "domain_handling": "Demonstrates strong domain expertise in Egyptian archaeology. The explanation is accurate, nuanced, and uses appropriate terminology."
+        }
+      ],
+      "Quantum Computing": [
+        {
+          "question_index": 55,
+          "preserved": [
+            "Shor's algorithm is a quantum algorithm for factoring.",
+            "It utilizes superposition and the Quantum Fourier Transform.",
+            "It poses a threat to RSA encryption.",
+            "Current technology limits its practical implementation."
+          ],
+          "lost": [
+            "Modular exponentiation is a core component.",
+            "Order finding is the central mathematical problem solved.",
+            "The role of continued fractions in factor extraction.",
+            "The specific quantum circuit implementation details.",
+            "The mathematical relationship between the period and the factors."
+          ],
+          "domain_handling": "Demonstrates basic awareness of the quantum computing domain but lacks the depth of understanding required for a truly expert explanation. The simplification, while aiming for accessibility, results in inaccuracies and omissions that would be unacceptable for a specialist."
+        },
+        {
+          "question_index": 56,
+          "preserved": [
+            "Definition of quantum supremacy",
+            "Importance of specific computational tasks",
+            "Role of superposition and entanglement",
+            "Google's Sycamore experiment",
+            "Ongoing nature of research",
+            "Potential applications"
+          ],
+          "lost": [
+            "Detailed explanation of the computational complexity classes involved (e.g., BQP vs. P)",
+            "Specific details of the random circuit sampling problem",
+            "Discussion of error correction challenges"
+          ],
+          "domain_handling": "Demonstrates strong understanding of the quantum computing domain, accurately representing the nuances and ongoing debates within the field. The language is accessible while maintaining technical accuracy."
+        },
+        {
+          "question_index": 57,
+          "preserved": [
+            "Qubits and superposition",
+            "Error detection and correction as distinct steps",
+            "Encoding into multiple physical qubits",
+            "Importance of topological codes",
+            "Iterative nature of QEC"
+          ],
+          "lost": [
+            "Details of error syndrome extraction",
+            "Specifics of Shor's code beyond its existence",
+            "Different types of quantum errors and their impact",
+            "Role of ancilla qubits",
+            "Challenges related to scalability of QEC"
+          ],
+          "domain_handling": "Demonstrates strong understanding of the domain, presenting information in a simplified yet accurate manner suitable for a general audience. The use of correct terminology and the inclusion of current research directions (topological codes) indicate expertise."
+        }
+      ],
+      "Game Theory": [
+        {
+          "question_index": 58,
+          "preserved": [
+            "Definition of Nash Equilibrium",
+            "Concept of non-cooperative games",
+            "Best response strategy",
+            "Individual rationality",
+            "Stable state/equilibrium",
+            "Prisoner's Dilemma example",
+            "No incentive to deviate"
+          ],
+          "lost": [
+            "Formal mathematical representation (payoff matrices)",
+            "Discussion of mixed strategies",
+            "Detailed exploration of games with multiple equilibria",
+            "Limitations of the assumption of perfect rationality"
+          ],
+          "domain_handling": "Demonstrates strong understanding of game theory concepts and terminology. The explanation is accurate and uses appropriate examples to illustrate the concept."
+        },
+        {
+          "question_index": 59,
+          "preserved": [
+            "Core concept of Shapley value as a fairness metric",
+            "Marginal contribution calculation",
+            "Importance of considering all possible allocations",
+            "Role of permutations in weighting"
+          ],
+          "lost": [
+            "Formal definition of a characteristic function",
+            "Detailed explanation of the permutation calculation",
+            "Concrete examples illustrating the Shapley value in action",
+            "Discussion of computational complexity"
+          ],
+          "domain_handling": "Demonstrates a good understanding of game theory concepts related to fair division, but simplifies some of the mathematical details for accessibility. The disclaimer acknowledges the complexity of the topic."
+        },
+        {
+          "question_index": 60,
+          "preserved": [
+            "Zero-sum game definition",
+            "Maximizing/Minimizing players",
+            "Recursive algorithm structure",
+            "Depth-First Search",
+            "Nash Equilibrium connection",
+            "Computational complexity"
+          ],
+          "lost": [
+            "Alpha-beta pruning",
+            "Concrete payoff assignment in terminal states",
+            "Detailed example of algorithm execution"
+          ],
+          "domain_handling": "Demonstrates strong understanding of game theory concepts and accurately applies them to explain the minimax algorithm. The explanation is technically sound and reflects expertise in the domain."
+        }
+      ],
+      "Molecular Biology": [
+        {
+          "question_index": 61,
+          "preserved": [
+            "Exons as coding sequences",
+            "Role of the spliceosome",
+            "Isoform generation",
+            "Relationship between mRNA and protein",
+            "Functional consequences of isoforms"
+          ],
+          "lost": [
+            "Specific types of alternative splicing events",
+            "Regulatory elements influencing splicing (e.g., enhancers, silencers)",
+            "Detailed mechanisms of spliceosome action"
+          ],
+          "domain_handling": "Demonstrates strong understanding of molecular biology principles related to gene expression and protein synthesis. The answer is appropriately tailored to the question and avoids unnecessary complexity while remaining accurate."
+        },
+        {
+          "question_index": 62,
+          "preserved": [
+            "Definition of ncRNAs",
+            "Key types of ncRNAs (miRNAs, lncRNAs, circRNAs, rRNAs, tRNAs)",
+            "Gene regulation role",
+            "Developmental biology impact",
+            "Disease association",
+            "Potential for drug discovery"
+          ],
+          "lost": [
+            "Details of ncRNA biogenesis pathways",
+            "Mention of siRNA",
+            "Specific examples of ncRNA targets in diseases"
+          ],
+          "domain_handling": "Demonstrates strong understanding of molecular biology concepts related to non-coding RNAs. The explanation is accurate and reflects current knowledge in the field."
+        },
+        {
+          "question_index": 63,
+          "preserved": [
+            "DNMTs as the key enzymes",
+            "CpG site preference",
+            "Methyl group addition",
+            "Gene repression via transcription factor blocking and MBP recruitment",
+            "Dynamic nature of methylation",
+            "Importance in development and disease"
+          ],
+          "lost": [
+            "Role of TET enzymes in demethylation",
+            "Detailed mechanism of maintenance methylation during replication",
+            "Non-CpG methylation (brief mention)",
+            "Specific examples of MBPs"
+          ],
+          "domain_handling": "Demonstrates strong understanding of molecular biology concepts related to epigenetics and gene regulation. The explanation is accurate and uses appropriate terminology."
+        }
+      ],
+      "Astronomy": [
+        {
+          "question_index": 64,
+          "preserved": [
+            "Neutrinos are involved in the process.",
+            "Heavy elements are produced.",
+            "Gravitational waves and electromagnetic radiation are emitted."
+          ],
+          "lost": [
+            "The initiating event is a binary neutron star or neutron star-black hole merger.",
+            "The r-process nucleosynthesis is the primary mechanism for heavy element formation.",
+            "The role of ejected material in creating the kilonova signal.",
+            "The importance of the equation of state of neutron star matter.",
+            "The connection between the merger and short gamma-ray bursts."
+          ],
+          "domain_handling": "Demonstrates a superficial understanding of the topic, but contains significant factual errors indicating a lack of deep domain expertise. The repeated misuse of 'kilonova' as an object that merges is a major red flag."
+        },
+        {
+          "question_index": 65,
+          "preserved": [
+            "MHD dynamo process",
+            "Neutron star origin",
+            "Rapid rotation",
+            "Core collapse",
+            "Magnetic field amplification",
+            "Field stability"
+          ],
+          "lost": [
+            "Role of convection in outer layers",
+            "Initial seed magnetic field",
+            "Details of differential rotation"
+          ],
+          "domain_handling": "Demonstrates strong understanding of astrophysics and neutron star physics. The terminology is used correctly and the explanation is consistent with current scientific understanding."
+        },
+        {
+          "question_index": 66,
+          "preserved": [
+            "Hydrogen fusion (proton-proton chain)",
+            "Helium fusion (triple-alpha process)",
+            "Fusion of carbon, oxygen, and silicon",
+            "Iron core collapse and supernova",
+            "Element creation during supernovae",
+            "Role of gravity in fusion",
+            "Energy release from fusion"
+          ],
+          "lost": [
+            "CNO cycle",
+            "s-process and r-process neutron capture",
+            "Detailed explanation of the triple-alpha process",
+            "Specific conditions (temperature, pressure) required for each fusion stage"
+          ],
+          "domain_handling": "Demonstrates strong understanding of the domain. The explanation is accurate, uses appropriate terminology, and conveys the core concepts of stellar nucleosynthesis effectively. The offer to elaborate on specific aspects further indicates expertise."
+        }
+      ],
+      "Philosophy of Mind": [
+        {
+          "question_index": 67,
+          "preserved": [
+            "The core components of the Chinese Room thought experiment.",
+            "The distinction between strong and weak AI.",
+            "Searle's concept of intentionality.",
+            "The argument's focus on understanding vs. simulation.",
+            "The historical context (Searle, 1980)."
+          ],
+          "lost": [
+            "Detailed discussion of specific criticisms of the argument (e.g., the Systems Reply, the Robot Reply).",
+            "Nuances within Searle's broader philosophical views on consciousness.",
+            "The debate surrounding the definition of 'understanding' itself."
+          ],
+          "domain_handling": "Demonstrates strong understanding of the philosophical domain, accurately representing Searle's argument and its context within the philosophy of mind. The explanation is nuanced and avoids oversimplification."
+        },
+        {
+          "question_index": 68,
+          "preserved": [
+            "Chalmers' articulation of the Hard Problem",
+            "The explanatory gap",
+            "The distinction between objective and subjective experience",
+            "Key theories attempting to address the problem (IIT, Global Workspace Theory, Materialism)",
+            "The ongoing nature of the problem"
+          ],
+          "lost": [
+            "Detailed critiques of the mentioned theories",
+            "Specific thought experiments like philosophical zombies or the knowledge argument",
+            "Historical development of the problem beyond Chalmers' initial framing"
+          ],
+          "domain_handling": "Demonstrates strong understanding of the philosophy of mind, specifically the core concepts and debates surrounding consciousness. The answer is appropriately nuanced and avoids oversimplification."
+        },
+        {
+          "question_index": 69,
+          "preserved": [
+            "Mind-body problem and its relation to split-brain research",
+            "Impact on theories of consciousness",
+            "Challenges to personal identity",
+            "Debate around free will and determinism",
+            "Role of observation and subjective experience"
+          ],
+          "lost": [
+            "Detailed discussion of specific philosophical positions (e.g., dualism, materialism, functionalism) and how they are specifically challenged.",
+            "Nuances within the split-brain research itself (e.g., variations in the degree of callosal section, individual patient differences)."
+          ],
+          "domain_handling": "Demonstrates strong understanding of the philosophical implications of neuroscience, accurately representing complex concepts and debates within the philosophy of mind. The answer reflects a good grasp of the relevant literature and ongoing discussions."
+        }
+      ],
+      "Mathematical Logic": [
+        {
+          "question_index": 70,
+          "preserved": [
+            "The Halting Problem concerns determining if a program will halt.",
+            "The problem is undecidable.",
+            "It has significant implications for computability theory.",
+            "Alan Turing is associated with the problem."
+          ],
+          "lost": [
+            "The core logic of Turing's diagonalization argument.",
+            "The precise meaning of 'undecidable' in terms of algorithms.",
+            "The formal definition of a Turing machine (though not strictly required, its absence contributes to the simplified explanation)."
+          ],
+          "domain_handling": "Demonstrates a basic understanding of the domain, but contains a significant factual error regarding the proof. The explanation is accessible but sacrifices precision for simplicity, leading to the inaccuracy."
+        },
+        {
+          "question_index": 71,
+          "preserved": [
+            "Undefinability of truth within formal systems",
+            "Contextual nature of truth",
+            "Role of formal systems as models",
+            "Limitations of formal systems"
+          ],
+          "lost": [
+            "Formal mathematical statement of the theorem",
+            "Object language vs. metalanguage distinction",
+            "Specific examples of contradictions arising from attempts to define truth"
+          ],
+          "domain_handling": "Demonstrates strong understanding of the core concepts in mathematical logic related to Tarski's theorem, but simplifies some of the more technical aspects for accessibility."
+        },
+        {
+          "question_index": 72,
+          "preserved": [
+            "Core idea of the correspondence",
+            "Relationship to formal logic and computability",
+            "Significance for verification",
+            "Mapping/one-to-one relationship"
+          ],
+          "lost": [
+            "Specific logical systems where the correspondence is most prominent (e.g., intuitionistic type theory)",
+            "The precise nature of the mapping (propositions as types, proofs as programs)",
+            "The role of types in the correspondence",
+            "Historical context and key figures (Curry, Howard)"
+          ],
+          "domain_handling": "Demonstrates a good general understanding of the topic, but lacks the nuanced detail expected of an expert. The explanation is accessible but sacrifices precision for clarity."
+        }
+      ],
+      "Classical Studies": [
+        {
+          "question_index": 73,
+          "preserved": [
+            "The concept of the 'peril of greatness' and its link to conflict.",
+            "Thucydides' emphasis on the role of human nature in driving political events.",
+            "The importance of objective historical analysis.",
+            "The cyclical nature of violence and instability.",
+            "The critique of leadership and the need for wisdom."
+          ],
+          "lost": [
+            "Detailed analysis of specific speeches (e.g., Pericles' Funeral Oration) and their political implications.",
+            "Discussion of Thucydides' views on democracy vs. oligarchy.",
+            "Exploration of the concept of 'physis' (nature) and 'nomos' (law) in Thucydides' work."
+          ],
+          "domain_handling": "Demonstrates a strong grasp of Classical Studies and Thucydidean scholarship. The response accurately reflects the scholarly consensus on the key political themes in *The History of the Peloponnesian War* and avoids common misinterpretations."
+        },
+        {
+          "question_index": 74,
+          "preserved": [
+            "Materialism as the core of Lucretius's philosophy",
+            "Atomistic theory",
+            "Critique of traditional religion",
+            "Influence on later philosophical thought",
+            "Literary innovation of the poem",
+            "Historical context of Roman turmoil"
+          ],
+          "lost": [
+            "Nuance of Epicureanism beyond simply being a 'precursor'",
+            "Specific details of Lucretius's poetic techniques (e.g., use of exempla)",
+            "The specific Roman anxieties Lucretius addressed"
+          ],
+          "domain_handling": "Demonstrates strong understanding of Classical Studies, specifically Roman philosophy and poetry. The answer accurately reflects the key themes and debates surrounding *De Rerum Natura*, though a more precise dating would indicate even greater expertise."
+        },
+        {
+          "question_index": 75,
+          "preserved": [
+            "Core tenets of Stoicism (virtue, *amor fati*, reason).",
+            "Influence on Roman political thought and leadership.",
+            "Impact on Roman ethics and values.",
+            "Connection to Roman literature and art.",
+            "Distinction between Stoic virtue and traditional Roman *virtus*."
+          ],
+          "lost": [
+            "Detailed discussion of specific Stoic schools within Rome (e.g., Old Stoa, Middle Stoa).",
+            "Specific examples of Stoic arguments used in Roman legal contexts.",
+            "The influence of Stoicism on specific Roman authors beyond general mention."
+          ],
+          "domain_handling": "Demonstrates strong domain expertise in Classical Studies, specifically Roman philosophy and history. The use of Latin terms (*virtus*, *amor fati*, *res publica*) is accurate and appropriate, indicating a solid understanding of the subject matter."
+        }
+      ],
+      "Modern Physics": [
+        {
+          "question_index": 76,
+          "preserved": [
+            "Quantization of spacetime",
+            "Discrete nature of spacetime",
+            "Emergent graviton",
+            "Non-commutative geometry",
+            "LQG as an extension of GR"
+          ],
+          "lost": [
+            "Spin networks and spin foams",
+            "Details of the mathematical formalism",
+            "Experimental challenges and current status of verification",
+            "Relationship to other quantum gravity approaches (e.g., string theory)"
+          ],
+          "domain_handling": "Demonstrates strong understanding of the core concepts within Loop Quantum Gravity, accurately representing the current scientific understanding. The disclaimer appropriately acknowledges the ongoing nature of research in the field."
+        },
+        {
+          "question_index": 77,
+          "preserved": [
+            "Holographic principle definition",
+            "Role of black hole entropy",
+            "Connection to string theory",
+            "Implications for quantum gravity and information paradox",
+            "Mathematical encoding on boundaries",
+            "Hologram analogy"
+          ],
+          "lost": [
+            "Details of the AdS/CFT correspondence",
+            "Specific mathematical formulations beyond probability amplitude",
+            "Nuances of different holographic models"
+          ],
+          "domain_handling": "Demonstrates strong understanding of modern physics concepts, particularly string theory and quantum gravity. The explanation is accurate and avoids oversimplification while remaining accessible."
+        },
+        {
+          "question_index": 78,
+          "preserved": [
+            "Core concept of delayed choice.",
+            "Wave-particle duality.",
+            "Non-locality.",
+            "Wave function collapse.",
+            "Interpretations of quantum mechanics (Many-Worlds, Pilot Wave).",
+            "Challenge to determinism."
+          ],
+          "lost": [
+            "Specific experimental details regarding the implementation of the delay (e.g., use of interferometers and beam splitters).",
+            "Mathematical representation of the experiment.",
+            "Historical context beyond the 1935 date."
+          ],
+          "domain_handling": "Demonstrates strong domain expertise in modern physics, specifically quantum mechanics. The explanation is nuanced and avoids common misconceptions, while remaining accessible."
+        }
+      ],
+      "Cognitive Science": [
+        {
+          "question_index": 79,
+          "preserved": [
+            "Core principles of PPT (prediction, error, update).",
+            "Active inference as opposed to passive reception.",
+            "Importance of internal models.",
+            "Goal of error minimization.",
+            "Perception as a constructive process."
+          ],
+          "lost": [
+            "Hierarchical structure of predictive coding.",
+            "Specific brain regions involved.",
+            "Mathematical formulations of PPT.",
+            "Distinction between precision weighting and prediction error."
+          ],
+          "domain_handling": "Demonstrates strong understanding of cognitive science, specifically the domain of perception and computational neuroscience. The explanation is accurate and reflects current understanding of PPT within the field."
+        },
+        {
+          "question_index": 80,
+          "preserved": [
+            "Definition of mirror neurons",
+            "Proposed link to perspective-taking",
+            "Connection to emotional contagion",
+            "Relationship to Theory of Mind",
+            "Importance of correlation vs. causation",
+            "Acknowledged ongoing research"
+          ],
+          "lost": [
+            "Original discovery in macaque monkeys",
+            "Details of specific brain regions involved (e.g., inferior parietal lobule, inferior frontal gyrus)",
+            "Discussion of criticisms regarding the human mirror neuron system's direct observability"
+          ],
+          "domain_handling": "Demonstrates strong understanding of cognitive neuroscience concepts and accurately reflects the current scientific understanding of mirror neurons and empathy. The disclaimer appropriately acknowledges the evolving nature of the field."
+        },
+        {
+          "question_index": 81,
+          "preserved": [
+            "Integrated Information Theory (IIT)",
+            "Global Workspace Theory (GWT)",
+            "Higher-Order Theories (HOT)",
+            "Recurrent Processing Theory (RPT)",
+            "Predictive Processing",
+            "Key researchers associated with each theory",
+            "Strengths and weaknesses of each theory"
+          ],
+          "lost": [
+            "Detailed mathematical formulations of IIT",
+            "Specific neural circuits involved in each theory (beyond broad regions)",
+            "Historical context of theory development",
+            "Alternative or less mainstream theories (e.g., Orch-OR)"
+          ],
+          "domain_handling": "Demonstrates strong understanding of the cognitive science domain, accurately representing complex neuroscientific theories in an accessible manner. The disclaimer appropriately acknowledges the simplification inherent in summarizing such a complex field."
+        }
+      ],
+      "Psychology": [
+        {
+          "question_index": 82,
+          "preserved": [
+            "Thought-feeling-behavior connection",
+            "Cognitive distortions",
+            "Thought records",
+            "Behavioral experiments",
+            "Problem-solving skills",
+            "Relapse prevention",
+            "Present focus",
+            "Active client participation",
+            "Goal-oriented approach"
+          ],
+          "lost": [
+            "Nuances of different CBT approaches (ACT, DBT)",
+            "Detailed explanation of therapist's role beyond guidance",
+            "Specific examples of cognitive restructuring techniques beyond challenging thoughts"
+          ],
+          "domain_handling": "Demonstrates strong understanding of the psychology domain, specifically cognitive behavioral therapy. The explanation is accurate, uses appropriate terminology, and avoids oversimplification while remaining accessible."
+        },
+        {
+          "question_index": 83,
+          "preserved": [
+            "Core concepts of attachment theory",
+            "Bowlby and Ainsworth's contributions",
+            "Secure attachment characteristics",
+            "Anxious-Preoccupied attachment style",
+            "Dismissive-Avoidant attachment style",
+            "Fearful-Avoidant attachment style",
+            "Importance of early caregiver relationships",
+            "Impact on later life"
+          ],
+          "lost": [
+            "The Strange Situation procedure",
+            "Neurobiological underpinnings of attachment",
+            "Detailed discussion of intergenerational transmission of attachment patterns",
+            "Cultural variations in attachment"
+          ],
+          "domain_handling": "Demonstrates strong understanding of the psychological domain, accurately representing complex concepts in an accessible manner. The explanation reflects current understanding within the field."
+        },
+        {
+          "question_index": 84,
+          "preserved": [
+            "Definition of the Default Mode Network (DMN)",
+            "Key brain regions (mPFC, PCC, Angular Gyrus)",
+            "Relationship to self-referential thought",
+            "Connection to imagination and daydreaming",
+            "Role in cognitive flexibility",
+            "Understanding that DMN activity doesn't *cause* mind-wandering"
+          ],
+          "lost": [
+            "Detailed neurological mechanisms (e.g., specific neurotransmitters involved)",
+            "Specific research studies demonstrating DMN activity during mind-wandering",
+            "The impact of individual differences (e.g., personality traits) on DMN activity and mind-wandering frequency"
+          ],
+          "domain_handling": "Demonstrates strong understanding of the psychology and neuroscience of attention and mind-wandering. The disclaimer appropriately acknowledges the evolving nature of the research."
+        }
+      ],
+      "Musicology": [
+        {
+          "question_index": 85,
+          "preserved": [
+            "Chord substitutions",
+            "Chromaticism",
+            "Altered dominant chords",
+            "Extended chords",
+            "Non-traditional progressions",
+            "Role of Charlie Parker, Dizzy Gillespie, and Thelonious Monk",
+            "Blue notes",
+            "Call and Response"
+          ],
+          "lost": [
+            "Detailed analysis of ii-V-I alterations",
+            "Specific examples of chord voicings and their effect",
+            "Discussion of bebop's relationship to earlier harmonic practices (e.g., swing) beyond just a rejection of the circle of fifths"
+          ],
+          "domain_handling": "Demonstrates strong understanding of musicology, specifically jazz harmony. The terminology is accurate and appropriately used, and the explanations are clear and concise, indicating a solid grasp of the subject matter."
+        },
+        {
+          "question_index": 86,
+          "preserved": [
+            "Serialism's systematic approach",
+            "Use of predetermined sequences",
+            "Importance of mathematical/logical rules",
+            "Role of composers like Schoenberg, Berg, and Webern",
+            "Concepts of tone rows and chord rows",
+            "Gestalt principle's influence"
+          ],
+          "lost": [
+            "Detailed explanation of different serial techniques (e.g., inversion, retrograde, transposition)",
+            "Discussion of integral serialism",
+            "Historical context of serialism's emergence as a reaction to atonality"
+          ],
+          "domain_handling": "Demonstrates strong understanding of musicological concepts and terminology related to serialism. The explanation is accurate and reflects a solid grasp of the subject matter."
+        },
+        {
+          "question_index": 87,
+          "preserved": [
+            "Historical origins in Java",
+            "Connection to Hindu and Buddhist rituals",
+            "Social and ceremonial functions (weddings, funerals, harvest)",
+            "Symbolic meaning of instruments",
+            "Role in Indonesian national identity",
+            "Modern revival efforts"
+          ],
+          "lost": [
+            "Detailed explanation of regional variations (Javanese vs. Balinese)",
+            "Philosophical underpinnings of the music",
+            "Specific roles of individual instruments within the ensemble",
+            "Mention of specific musical forms (e.g., gendhing)"
+          ],
+          "domain_handling": "Demonstrates strong domain expertise, accurately representing the cultural and historical context of gamelan music. The answer reflects a good understanding of the topic without being overly technical."
+        }
+      ],
+      "Film Theory": [
+        {
+          "question_index": 88,
+          "preserved": [
+            "Montage as a core filmmaking technique.",
+            "The goal of evoking emotional responses.",
+            "The idea of juxtaposition and its effect on the viewer.",
+            "Influence of psychological theories."
+          ],
+          "lost": [
+            "Correct attribution of the theory to Sergei Eisenstein.",
+            "Detailed explanation of different montage types.",
+            "Specific examples of Eisenstein's films and their application of the theory.",
+            "Nuance regarding the purpose of montage \u2013 it wasn't *only* about disruption."
+          ],
+          "domain_handling": "Demonstrates a basic understanding of film theory but suffers from a critical factual error and a lack of depth in its understanding of Eisenstein's specific contributions. The domain expertise is present but flawed."
+        },
+        {
+          "question_index": 89,
+          "preserved": [
+            "Definition of the Male Gaze Theory",
+            "Laura Mulvey's authorship",
+            "Key elements of the theory (objectification, camera angles, narrative structure)",
+            "Application to classic Hollywood film conventions",
+            "Nuance regarding not all films being sexist"
+          ],
+          "lost": [
+            "Discussion of scopophilia and identification (key components of Mulvey's original argument)",
+            "Historical context of the theory's emergence within second-wave feminism",
+            "More in-depth analysis of specific film examples to illustrate the points"
+          ],
+          "domain_handling": "Demonstrates strong understanding of film theory and feminist film criticism. The response accurately reflects the core concepts of the Male Gaze Theory and its relevance to the study of classic Hollywood cinema."
+        },
+        {
+          "question_index": 90,
+          "preserved": [
+            "Rejection of traditional narrative",
+            "Emphasis on stylistic innovation (camera movement, montage, non-linear storytelling)",
+            "Influence of Surrealism and Dada",
+            "Key directors (Truffaut, Godard, Resnais, Chabrol)",
+            "Impact on subsequent film movements"
+          ],
+          "lost": [
+            "The role of *Cahiers du Cin\u00e9ma* and its critics",
+            "Economic factors enabling the movement",
+            "The concept of *auteur* theory as central to the New Wave"
+          ],
+          "domain_handling": "Demonstrates strong understanding of film theory and the historical context of the French New Wave. The terminology is used correctly and the explanations are insightful."
+        }
+      ],
+      "Literary Theory": [
+        {
+          "question_index": 91,
+          "preserved": [
+            "Core concepts of deferral and difference",
+            "Rejection of inherent meaning",
+            "Temporal structure of meaning",
+            "Influence of the past"
+          ],
+          "lost": [
+            "Detailed explanation of the neologism's etymology and deliberate spelling",
+            "Connection to Saussure's signifier/signified",
+            "Discussion of logocentrism and the metaphysical tradition Derrida critiques",
+            "Nuances of the 'trace'"
+          ],
+          "domain_handling": "Demonstrates strong understanding of the philosophical domain, accurately representing Derrida's complex ideas. The provided link to the Stanford Encyclopedia of Philosophy further validates the domain expertise."
+        },
+        {
+          "question_index": 92,
+          "preserved": [
+            "Subjectivity of interpretation",
+            "Reader's role in meaning-making",
+            "Rejection of objective text",
+            "Influence of reader's background",
+            "Multiple valid interpretations",
+            "Jacques Lacan's influence",
+            "Paul Ricoeur's influence"
+          ],
+          "lost": [
+            "Detailed explanation of different schools within reader-response theory (e.g., Wolfgang Iser's concept of 'blanks', Stanley Fish's 'interpretive communities')",
+            "Discussion of the historical development of the theory",
+            "Specific examples of how different readers might interpret the same text"
+          ],
+          "domain_handling": "Demonstrates strong domain expertise. The response accurately reflects the key concepts and figures associated with reader-response theory, indicating a solid understanding of literary theory."
+        },
+        {
+          "question_index": 93,
+          "preserved": [
+            "The core ideas of the 'Death of the Author' (readerly text, rejection of authorial intent, text as primary source of meaning).",
+            "The concept of the author as a 'ghost' or projection.",
+            "The importance of textual structure and intertextuality."
+          ],
+          "lost": [
+            "The specific historical and philosophical context surrounding Barthes's essay.",
+            "Nuances of Barthes's argument, such as its connection to structuralism and post-structuralism.",
+            "The distinction between 'writer' and 'author' as Barthes defines them."
+          ],
+          "domain_handling": "Demonstrates a good understanding of literary theory concepts *but fails catastrophically in attributing the theory to the correct author*. This indicates a significant gap in foundational knowledge within the domain."
+        }
+      ],
+      "Military History": [
+        {
+          "question_index": 94,
+          "preserved": [
+            "Strategic importance of Midway",
+            "Shift in Pacific Theater momentum",
+            "Japanese naval strategy flaws",
+            "Importance of intelligence (codebreaking)",
+            "Impact on Japanese offensive capabilities"
+          ],
+          "lost": [
+            "Specific details of the battle (e.g., aircraft types, specific dates)",
+            "Names of key commanders (Nimitz, Halsey, Nagumo)",
+            "Details of the codebreaking efforts (e.g., MAGIC)",
+            "Specific carrier names lost"
+          ],
+          "domain_handling": "Demonstrates strong understanding of the historical context and key elements of military strategy within the Pacific Theater of WWII. The response uses appropriate terminology and accurately reflects the historical consensus on the battle's importance."
+        },
+        {
+          "question_index": 95,
+          "preserved": [
+            "Origin of gunpowder in China",
+            "Increased range and power of attacks",
+            "Development of siege weaponry",
+            "Shift in battlefield tactics",
+            "Impact on army size and siege duration",
+            "Strategic prioritization of gunpowder weaponry"
+          ],
+          "lost": [
+            "Specific details about the chemical composition of early gunpowder.",
+            "The slow rate of adoption in some regions.",
+            "The social and economic impacts of gunpowder warfare (e.g., cost of production, rise of professional armies).",
+            "The evolution of gunpowder weapons beyond initial forms (e.g., from fire lances to cannons to muskets)."
+          ],
+          "domain_handling": "Demonstrates strong understanding of military history and the impact of technological innovation on warfare. The answer is well-informed and avoids oversimplification while remaining accessible."
+        },
+        {
+          "question_index": 96,
+          "preserved": [
+            "Importance of supply lines for a large army.",
+            "Need for rapid deployment and how logistics enabled it.",
+            "Requirements for food, water, equipment, and maintenance.",
+            "Role of naval logistics.",
+            "Intelligence gathering as a logistical function.",
+            "Dynamic and evolving nature of logistical planning."
+          ],
+          "lost": [
+            "Specific examples of logistical infrastructure (e.g., types of depots, road building).",
+            "Details on financial aspects of logistics (funding, taxation).",
+            "Discussion of the role of local populations in supplying the army (both willing and unwilling).",
+            "Specific challenges faced in different regions (e.g., desert, mountains)."
+          ],
+          "domain_handling": "Demonstrates strong domain expertise in military history, specifically regarding ancient warfare and the logistical challenges of large-scale campaigns. The response uses appropriate terminology and demonstrates an understanding of the strategic context."
+        }
+      ],
+      "Architectural Theory": [
+        {
+          "question_index": 97,
+          "preserved": [
+            "Core principles of biomimicry",
+            "Applications in form/structure, materials, energy efficiency, and space planning",
+            "Emphasis on sustainability",
+            "Holistic design approach"
+          ],
+          "lost": [
+            "Specific historical examples of early biomimicry in architecture",
+            "Details on computational design tools used in biomimicry",
+            "Discussion of limitations or challenges beyond implementation costs"
+          ],
+          "domain_handling": "Demonstrates strong domain expertise in architectural theory and biomimicry, using appropriate terminology and providing relevant examples. The answer reflects a nuanced understanding of the field."
+        },
+        {
+          "question_index": 98,
+          "preserved": [
+            "Core aesthetic principles of Brutalism",
+            "Material choices (concrete)",
+            "Formal characteristics (massing, geometry)",
+            "Key architects (Le Corbusier, Smithsons, Venturi)",
+            "Historical context (mid-20th century)",
+            "Philosophical underpinnings (honest construction, functionalism, social statement)"
+          ],
+          "lost": [
+            "Detailed discussion of the socio-political context driving Brutalism (post-war austerity, welfare state)",
+            "Specific examples of Brutalist buildings and their impact",
+            "The origins of the term 'Brutalism' (Alison Smithson's use of 'b\u00e9ton brut')",
+            "Criticisms of Brutalism (often perceived as cold and unwelcoming)"
+          ],
+          "domain_handling": "Demonstrates strong domain expertise. The answer accurately reflects the established understanding of Brutalist architecture within architectural history and theory. The framing and terminology are appropriate and precise."
+        },
+        {
+          "question_index": 99,
+          "preserved": [
+            "Modular construction principles",
+            "Geometric abstraction and 'machine aesthetic'",
+            "Typological impact",
+            "Urban planning influence (grid systems)",
+            "Influence on Brutalism, Deconstructivism, and parametric design",
+            "Conceptual framework aspect"
+          ],
+          "lost": [
+            "Fibonacci sequence/Golden Ratio connection",
+            "Anthropometric basis",
+            "Criticisms of the Modulor system (e.g., rigidity, lack of human scale)"
+          ],
+          "domain_handling": "Demonstrates strong understanding of architectural theory and Le Corbusier's work. The terminology is accurate and appropriately used, indicating a good grasp of the domain."
+        }
+      ],
+      "Sociology": [
+        {
+          "question_index": 100,
+          "preserved": [
+            "Core tenets of social capital theory",
+            "Relationship between social networks and resilience",
+            "Importance of trust and reciprocity",
+            "Role of collective action",
+            "Impact of information flow and social support"
+          ],
+          "lost": [
+            "Detailed discussion of different types of social capital (bonding, bridging, linking)",
+            "Specific examples of resilience in action"
+          ],
+          "domain_handling": "Demonstrates strong understanding of sociological concepts and terminology. The explanation is accurate and reflects current scholarly understanding of social capital theory and its application to community resilience."
+        },
+        {
+          "question_index": 101,
+          "preserved": [
+            "Definition of cultural capital",
+            "Three types of cultural capital (embodied, objectified, organized)",
+            "Social reproduction",
+            "Link to social class and opportunity",
+            "Bourdieu's authorship"
+          ],
+          "lost": [
+            "Nuances of the relationship between cultural capital and habitus",
+            "Detailed explanation of 'field'",
+            "Discussion of the power dynamics inherent in the recognition of cultural capital"
+          ],
+          "domain_handling": "Demonstrates strong understanding of sociological theory and accurately represents Bourdieu's work. The explanation is nuanced and avoids oversimplification, indicating a solid grasp of the domain."
+        },
+        {
+          "question_index": 102,
+          "preserved": [
+            "Social control function of ritual",
+            "Cultural transmission via ritual",
+            "Identity formation through ritual",
+            "Reinforcement of social structure",
+            "Emotional regulation role",
+            "Stabilization of norms",
+            "Contextual variability of ritual"
+          ],
+          "lost": [
+            "Specific theoretical frameworks (e.g., Durkheim's collective effervescence, Turner's liminality)",
+            "Detailed discussion of different ritual types (rites of passage, calendrical rituals, etc.)"
+          ],
+          "domain_handling": "Demonstrates strong understanding of sociological concepts related to ritual and social order. The answer reflects a grasp of the core principles without getting bogged down in unnecessary detail, making it accessible while remaining accurate."
+        }
+      ],
+      "Paleontology": [
+        {
+          "question_index": 103,
+          "preserved": [
+            "Skin impressions as primary evidence",
+            "Trace element analysis (carotenoids, melanin)",
+            "Comparative analysis with modern reptiles and birds",
+            "Use of modeling and simulation",
+            "Acknowledged limitations and ongoing research"
+          ],
+          "lost": [
+            "Specific details about melanosome structure and function",
+            "Challenges of reconstructing colors beyond melanin-based hues",
+            "Details on the degradation of different pigment types"
+          ],
+          "domain_handling": "Demonstrates strong domain expertise in paleontology and the specific field of dinosaur color reconstruction. The terminology is accurate and the explanations are clear and concise."
+        },
+        {
+          "question_index": 104,
+          "preserved": [
+            "Rapid diversification of life",
+            "Evolution of key body plans (segmentation, appendages, eyes)",
+            "Ecological factors driving diversification",
+            "Importance as a foundation for future evolution",
+            "Timeframe of the Cambrian period"
+          ],
+          "lost": [
+            "Specific details about the role of Hox genes",
+            "Detailed explanation of oxygen level increases",
+            "Discussion of potential triggers for the explosion (e.g., snowball earth aftermath)"
+          ],
+          "domain_handling": "Demonstrates strong domain expertise in paleontology and evolutionary biology. The answer uses appropriate terminology and accurately reflects current scientific understanding of the Cambrian explosion."
+        },
+        {
+          "question_index": 105,
+          "preserved": [
+            "Chicxulub crater's significance",
+            "Iridium anomaly and its source",
+            "Shocked quartz formation",
+            "Tektite and microspherule origin",
+            "Stratigraphic evidence of the K-Pg boundary",
+            "Paleomagnetic reversal",
+            "Asteroid size estimate (10-15km)",
+            "K-Pg extinction event timing (66 million years ago)"
+          ],
+          "lost": [
+            "Detailed explanation of the impact's immediate effects (e.g., tsunamis, atmospheric changes)",
+            "Specific details about the composition of tektites and microspherules",
+            "The role of impact winter in the extinction event",
+            "The debate surrounding multiple impactors vs. a single large impactor"
+          ],
+          "domain_handling": "Demonstrates strong domain expertise in paleontology and geology. The answer uses appropriate terminology and accurately represents the scientific consensus on the asteroid impact theory. The inclusion of resources further highlights this expertise."
+        }
+      ],
+      "Robotics": [
+        {
+          "question_index": 106,
+          "preserved": [
+            "Simultaneous Localization and Mapping (SLAM) concept",
+            "Sensor data acquisition",
+            "Feature extraction",
+            "Map creation",
+            "Localization techniques",
+            "Loop closure",
+            "Probabilistic mapping",
+            "Optimization"
+          ],
+          "lost": [
+            "Specific SLAM algorithms (e.g., EKF SLAM, FastSLAM, GraphSLAM)",
+            "Details of Kalman Filtering/Particle Filtering",
+            "Different map representations (occupancy grids, topological maps)",
+            "Computational complexity considerations",
+            "Data association challenges"
+          ],
+          "domain_handling": "Demonstrates strong understanding of the robotics domain, specifically SLAM. The terminology is accurate and the explanations are appropriate for someone with a basic understanding of robotics concepts."
+        },
+        {
+          "question_index": 107,
+          "preserved": [
+            "Dexterity limitations",
+            "Sensor limitations (vision, tactile, force/torque)",
+            "Grasping and force control difficulties",
+            "Planning complexity",
+            "Learning and adaptation challenges",
+            "Importance of reinforcement learning and computer vision"
+          ],
+          "lost": [
+            "Specific algorithms used in planning (e.g., RRT)",
+            "Details on different types of grasps (e.g., power grasp, precision grasp)",
+            "Specific types of force sensors"
+          ],
+          "domain_handling": "Demonstrates strong domain expertise in robotics, accurately identifying key challenges and providing insightful explanations. The language used is appropriate for someone with a technical background."
+        },
+        {
+          "question_index": 108,
+          "preserved": [
+            "Agent-environment interaction",
+            "Policy definition",
+            "Reward function importance",
+            "Exploration vs. Exploitation",
+            "Q-Learning",
+            "Deep Reinforcement Learning"
+          ],
+          "lost": [
+            "Markov Decision Processes (MDPs)",
+            "Sample efficiency challenges",
+            "Different types of reward shaping",
+            "On-policy vs. Off-policy learning"
+          ],
+          "domain_handling": "Demonstrates strong understanding of the robotics application of reinforcement learning, accurately framing the concepts within that domain. The mention of real-world vs. simulated environments is relevant."
+        }
+      ],
+      "Ethics": [
+        {
+          "question_index": 109,
+          "preserved": [
+            "Core trolley problem scenario",
+            "Utilitarianism and its application",
+            "Deontology and its application",
+            "Virtue Ethics and its application",
+            "The concept of moral intuition",
+            "Key considerations like intentionality and responsibility"
+          ],
+          "lost": [
+            "Detailed exploration of specific deontological rules (e.g., Kant's categorical imperative)",
+            "Discussion of the Doctrine of Double Effect",
+            "Mention of psychological studies related to the trolley problem"
+          ],
+          "domain_handling": "Demonstrates strong understanding of moral philosophy and the trolley problem. The explanations are accurate and reflect current scholarly discussions within the field. The response avoids oversimplification while remaining accessible."
+        },
+        {
+          "question_index": 110,
+          "preserved": [
+            "Core definitions of consequentialism and virtue ethics",
+            "Key figures associated with consequentialism",
+            "Focus on outcomes vs. character",
+            "Predictive vs. descriptive approaches",
+            "The concept of virtues"
+          ],
+          "lost": [
+            "Nuances within consequentialism (e.g., rule consequentialism)",
+            "Detailed exploration of Aristotelian virtue ethics",
+            "Potential criticisms of each theory",
+            "Examples of how the theories might conflict in specific scenarios"
+          ],
+          "domain_handling": "Demonstrates strong understanding of ethical theory, accurately representing complex concepts in an accessible manner. The disclaimer is appropriate for an AI response."
+        },
+        {
+          "question_index": 111,
+          "preserved": [
+            "Definition of moral luck",
+            "Types of moral luck (resultant, circumstantial, constitutive)",
+            "Key philosophers (Nagel, Solomon)",
+            "Arguments for and against moral luck",
+            "Contemporary relevance"
+          ],
+          "lost": [
+            "Nuances of the debate surrounding control and free will as they relate to moral luck.",
+            "Detailed exploration of the implications for legal systems beyond a brief mention."
+          ],
+          "domain_handling": "Demonstrates strong understanding of the philosophical domain, accurately representing complex concepts in an accessible manner. The explanation is nuanced and avoids oversimplification."
+        }
+      ],
+      "Animation": [
+        {
+          "question_index": 112,
+          "preserved": [
+            "Core concept of ray tracing",
+            "Importance of light paths",
+            "Shadow and reflection generation",
+            "Global Illumination principles",
+            "Benefits of ray tracing over rasterization"
+          ],
+          "lost": [
+            "Details of specific ray tracing algorithms (path tracing, BVH)",
+            "Mathematical details of intersection tests",
+            "The role of anti-aliasing",
+            "Performance considerations of ray tracing"
+          ],
+          "domain_handling": "Demonstrates strong understanding of the animation and rendering domain. The explanation is technically sound and uses appropriate terminology. The minor inaccuracies suggest a good, but not expert-level, grasp of the nuances."
+        },
+        {
+          "question_index": 113,
+          "preserved": [
+            "Keyframe animation as a foundation",
+            "Bone structure and joint types",
+            "Weight painting and skinning",
+            "Inverse Kinematics (IK)",
+            "Constraints for motion control",
+            "Connection to animation principles (Squash & Stretch, Anticipation, Follow Through)"
+          ],
+          "lost": [
+            "Forward Kinematics",
+            "Deformation order",
+            "Custom attributes and control rigs",
+            "Muscle systems and dynamics",
+            "Advanced skinning techniques (volume preservation, etc.)"
+          ],
+          "domain_handling": "Demonstrates strong domain expertise, accurately using terminology and explaining concepts in a way that is accessible yet technically sound. The offer to elaborate on specific aspects further highlights the responder's understanding."
+        },
+        {
+          "question_index": 114,
+          "preserved": [
+            "Understanding of the principles' goal of creating realistic and engaging animation.",
+            "Recognition of the principles' impact on storytelling and emotional response.",
+            "Awareness of the principles as a foundational element of animation."
+          ],
+          "lost": [
+            "Accurate names of several principles.",
+            "Nuance and depth of explanation for each principle.",
+            "Correct historical attribution of the principles.",
+            "Specific examples illustrating each principle in practice."
+          ],
+          "domain_handling": "Demonstrates a general understanding of animation concepts but exhibits significant factual inaccuracies regarding the 12 principles themselves, suggesting a superficial or flawed knowledge base. The answer reads as if it's based on a misunderstanding or misremembering of the core material."
+        }
+      ]
+    },
+    "processed_files": [
+      "validated/question_106_validated.json",
+      "validated/question_027_validated.json",
+      "validated/question_099_validated.json",
+      "validated/question_064_validated.json",
+      "validated/question_018_validated.json",
+      "validated/question_001_validated.json",
+      "validated/question_044_validated.json",
+      "validated/question_112_validated.json",
+      "validated/question_090_validated.json",
+      "validated/question_017_validated.json",
+      "validated/question_075_validated.json",
+      "validated/question_066_validated.json",
+      "validated/question_095_validated.json",
+      "validated/question_054_validated.json",
+      "validated/question_096_validated.json",
+      "validated/question_042_validated.json",
+      "validated/question_114_validated.json",
+      "validated/question_012_validated.json",
+      "validated/question_048_validated.json",
+      "validated/question_014_validated.json",
+      "validated/question_058_validated.json",
+      "validated/question_093_validated.json",
+      "validated/question_092_validated.json",
+      "validated/question_073_validated.json",
+      "validated/question_043_validated.json",
+      "validated/question_049_validated.json",
+      "validated/question_019_validated.json",
+      "validated/question_078_validated.json",
+      "validated/question_021_validated.json",
+      "validated/question_109_validated.json",
+      "validated/question_047_validated.json",
+      "validated/question_009_validated.json",
+      "validated/question_028_validated.json",
+      "validated/question_094_validated.json",
+      "validated/question_020_validated.json",
+      "validated/question_007_validated.json",
+      "validated/question_026_validated.json",
+      "validated/question_065_validated.json",
+      "validated/question_107_validated.json",
+      "validated/question_033_validated.json",
+      "validated/question_041_validated.json",
+      "validated/question_098_validated.json",
+      "validated/question_062_validated.json",
+      "validated/question_084_validated.json",
+      "validated/question_016_validated.json",
+      "validated/question_038_validated.json",
+      "validated/question_040_validated.json",
+      "validated/question_085_validated.json",
+      "validated/question_071_validated.json",
+      "validated/question_100_validated.json",
+      "validated/question_029_validated.json",
+      "validated/question_072_validated.json",
+      "validated/question_004_validated.json",
+      "validated/question_005_validated.json",
+      "validated/question_052_validated.json",
+      "validated/question_111_validated.json",
+      "validated/question_091_validated.json",
+      "validated/question_035_validated.json",
+      "validated/question_056_validated.json",
+      "validated/question_031_validated.json",
+      "validated/question_025_validated.json",
+      "validated/question_083_validated.json",
+      "validated/question_103_validated.json",
+      "validated/question_003_validated.json",
+      "validated/question_011_validated.json",
+      "validated/question_030_validated.json",
+      "validated/question_039_validated.json",
+      "validated/question_057_validated.json",
+      "validated/question_022_validated.json",
+      "validated/question_074_validated.json",
+      "validated/question_079_validated.json",
+      "validated/question_088_validated.json",
+      "validated/question_101_validated.json",
+      "validated/question_081_validated.json",
+      "validated/question_077_validated.json",
+      "validated/question_055_validated.json",
+      "validated/question_059_validated.json",
+      "validated/question_097_validated.json",
+      "validated/question_070_validated.json",
+      "validated/question_087_validated.json",
+      "validated/question_086_validated.json",
+      "validated/question_089_validated.json",
+      "validated/question_024_validated.json",
+      "validated/question_050_validated.json",
+      "validated/question_006_validated.json",
+      "validated/question_061_validated.json",
+      "validated/question_104_validated.json",
+      "validated/question_108_validated.json",
+      "validated/question_060_validated.json",
+      "validated/question_036_validated.json",
+      "validated/question_015_validated.json",
+      "validated/question_053_validated.json",
+      "validated/question_076_validated.json",
+      "validated/question_069_validated.json",
+      "validated/question_082_validated.json",
+      "validated/question_051_validated.json",
+      "validated/question_113_validated.json",
+      "validated/question_010_validated.json",
+      "validated/question_045_validated.json",
+      "validated/question_105_validated.json",
+      "validated/question_023_validated.json",
+      "validated/question_046_validated.json",
+      "validated/question_002_validated.json",
+      "validated/question_080_validated.json",
+      "validated/question_034_validated.json",
+      "validated/question_013_validated.json",
+      "validated/question_110_validated.json",
+      "validated/question_032_validated.json",
+      "validated/question_067_validated.json",
+      "validated/question_008_validated.json",
+      "validated/question_063_validated.json",
+      "validated/question_037_validated.json",
+      "validated/question_068_validated.json",
+      "validated/question_102_validated.json"
+    ]
+  },
+  "analysis": "\n## 1B Parameter Model Evaluation Analysis\n\nThis analysis summarizes the performance of a 1B parameter model across 114 questions, evaluating accuracy, reasoning, and completeness. Importantly, no errors were encountered during evaluation, suggesting robustness in response generation.\n\n**1. Overall Performance:**\n\nThe model demonstrates generally strong performance. Mean accuracy and reasoning scores are both 8.5, with medians of 9.0, indicating a tendency towards high-quality responses. However, the standard deviations (1.41 & 1.46 respectively) reveal considerable variance in performance \u2013 some questions are answered very well, while others are significantly weaker. Completeness lags behind at a mean of 7.5, suggesting the model sometimes provides concise but insufficient answers. The higher standard deviation for completeness (1.12) indicates even more inconsistency in providing thorough responses.\n\n**2. Domain Strengths & Weaknesses:**\n\n* **Strengths:** The model excels in **Paleontology, Literature, and Biology**. This suggests a strong representation of knowledge and reasoning capabilities within these domains, likely due to their prevalence in training data or inherent structural similarities to concepts the model grasped well.\n* **Weaknesses:** Performance dips significantly in **Astronomy, Economics, and Ancient History**. This points to gaps in the model\u2019s knowledge base or difficulty applying reasoning to these more complex or nuanced fields.  Astronomy often requires complex calculations and understanding of physical laws, Economics relies on abstract models and current events, and Ancient History demands detailed contextual knowledge \u2013 all potentially challenging for a 1B parameter model.\n\n**3. Knowledge Compression Effectiveness:**\n\nThe model's performance suggests *partial* knowledge compression. It successfully retained core knowledge in areas like Paleontology, Literature, and Biology, demonstrating it can represent and recall fundamental concepts. However, the weaknesses in Astronomy, Economics, and Ancient History indicate a loss of detail and nuanced understanding.  A 1B parameter model has limited capacity, and it appears the compression process prioritized more frequently represented or structurally simpler knowledge. The high accuracy/reasoning scores *when it does answer correctly* suggest the core *ability* to reason is present, but is hampered by missing or incomplete knowledge.\n\n**4. Recommendations for Model Usage:**\n\n* **Best Use Cases:** Leverage the model for tasks within its strengths \u2013 generating summaries, answering factual questions, or brainstorming ideas related to Paleontology, Literature, and Biology.\n* **Cautious Use:** Exercise caution when using the model for Astronomy, Economics, or Ancient History.  Verify responses with external sources, especially for critical applications.\n* **Augmentation:** Consider augmenting the model with retrieval-augmented generation (RAG) for domains where it struggles. This allows the model to access external knowledge sources during response generation, mitigating knowledge gaps.\n* **Fine-tuning:** Fine-tuning the model on datasets specific to the weaker domains could improve performance, but may require significant data and computational resources.\n* **Transparency:**  Always be transparent about the model's limitations and potential for inaccuracies, particularly when used in applications where reliability is paramount.\n\n\n\nIn conclusion, this 1B parameter model is a capable performer within specific domains, but its limited capacity results in knowledge gaps. Strategic application and potential augmentation are key to maximizing its utility.\n\n\n\n"
+}

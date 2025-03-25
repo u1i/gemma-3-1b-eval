@@ -1,0 +1,11 @@
+category,question
+Mathematics,Solve the quadratic equation: 2x² + 5x - 12 = 0. Show your steps.
+Logic,Eight people need to cross a bridge at night with one flashlight. The bridge holds max two people. Times to cross: (1,2,5,8,12,13,14,15 mins). Minimum time to get all across?
+Algorithms,Design an algorithm to find the longest palindrome in a string. Explain your approach step by step.
+Geometry,A cylinder has radius r and height h. Express its volume in terms of its surface area. Show your work.
+Word Problems,A train travels at 60 mph for 2 hours then 75 mph for 1 hour. If it covered 165 miles total how long was it stopped?
+Pattern Recognition,What's the next number in sequence: 2,6,12,20,30,42,?. Explain your reasoning.
+Resource Optimization,Five tasks (A:2h,B:4h,C:1h,D:3h,E:2h) need to be done by 3 people. Minimize total time. Show your solution.
+Physics Problem,A ball is thrown upward at 20 m/s. When will it reach 15m height? Show calculations.
+Financial Math,Investment of $10000 grows 8% annually. How long until it doubles? Show the math.
+Logical Deduction,If all A are B, some B are C, and no C are D, what can we conclude about A and D? Explain reasoning.

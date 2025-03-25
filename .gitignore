@@ -1,0 +1,69 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.env
+.venv
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Project specific
+*.log
+.env
+.env.*
+!.env.example
+
+# API Keys and Secrets
+openrouter_api_key.txt
+*.key
+
+# Model files and large data
+*.gguf
+*.bin
+*.pt
+*.pth
+*.onnx
+*.safetensors
+
+# Generated files
+streams/*/answers_1b/*.json
+streams/*/answers_27b/*.json
+streams/*/validated/*.json
+!streams/*/questions/*.csv
+
+# Temporary files
+*.tmp
+.coverage
+htmlcov/
+.pytest_cache/
+.coverage.*
+coverage.xml
+*.cover
+set.sh
