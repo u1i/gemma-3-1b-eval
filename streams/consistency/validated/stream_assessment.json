@@ -1,0 +1,661 @@
+{
+  "stream": "consistency",
+  "total_questions": 19,
+  "overall_statistics": {
+    "accuracy": {
+      "mean": 9,
+      "median": 9,
+      "std_dev": 2.0
+    },
+    "reasoning": {
+      "mean": 8.31578947368421,
+      "median": 8,
+      "std_dev": 0.7492686492653552
+    },
+    "completeness": {
+      "mean": 7.947368421052632,
+      "median": 8,
+      "std_dev": 0.7798635358208024
+    },
+    "fact_stability": {
+      "mean": 9.210526315789474,
+      "median": 10,
+      "std_dev": 2.0433889978394295
+    },
+    "context_awareness": {
+      "mean": 8.526315789473685,
+      "median": 8,
+      "std_dev": 0.9048278567177281
+    },
+    "uncertainty_disclosure": {
+      "mean": 7.157894736842105,
+      "median": 7,
+      "std_dev": 1.8933555718980593
+    }
+  },
+  "category_statistics": {
+    "Historical Facts A": {
+      "accuracy": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      },
+      "reasoning": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      },
+      "completeness": {
+        "mean": 7,
+        "median": 7,
+        "std_dev": 0
+      },
+      "fact_stability": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      },
+      "context_awareness": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      },
+      "uncertainty_disclosure": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      }
+    },
+    "Historical Facts B": {
+      "accuracy": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      },
+      "reasoning": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      },
+      "completeness": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      },
+      "fact_stability": {
+        "mean": 10,
+        "median": 10,
+        "std_dev": 0
+      },
+      "context_awareness": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      },
+      "uncertainty_disclosure": {
+        "mean": 7,
+        "median": 7,
+        "std_dev": 0
+      }
+    },
+    "Scientific Concept A": {
+      "accuracy": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      },
+      "reasoning": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      },
+      "completeness": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      },
+      "fact_stability": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      },
+      "context_awareness": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      },
+      "uncertainty_disclosure": {
+        "mean": 7,
+        "median": 7,
+        "std_dev": 0
+      }
+    },
+    "Scientific Concept B": {
+      "accuracy": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      },
+      "reasoning": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      },
+      "completeness": {
+        "mean": 7,
+        "median": 7,
+        "std_dev": 0
+      },
+      "fact_stability": {
+        "mean": 10,
+        "median": 10,
+        "std_dev": 0
+      },
+      "context_awareness": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      },
+      "uncertainty_disclosure": {
+        "mean": 7,
+        "median": 7,
+        "std_dev": 0
+      }
+    },
+    "Mathematical Truth A": {
+      "accuracy": {
+        "mean": 10,
+        "median": 10,
+        "std_dev": 0
+      },
+      "reasoning": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      },
+      "completeness": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      },
+      "fact_stability": {
+        "mean": 10,
+        "median": 10,
+        "std_dev": 0
+      },
+      "context_awareness": {
+        "mean": 10,
+        "median": 10,
+        "std_dev": 0
+      },
+      "uncertainty_disclosure": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      }
+    },
+    "Mathematical Truth B": {
+      "accuracy": {
+        "mean": 1,
+        "median": 1,
+        "std_dev": 0
+      },
+      "reasoning": {
+        "mean": 6,
+        "median": 6,
+        "std_dev": 0
+      },
+      "completeness": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      },
+      "fact_stability": {
+        "mean": 1,
+        "median": 1,
+        "std_dev": 0
+      },
+      "context_awareness": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      },
+      "uncertainty_disclosure": {
+        "mean": 0,
+        "median": 0,
+        "std_dev": 0
+      }
+    },
+    "Technological Progress A": {
+      "accuracy": {
+        "mean": 10,
+        "median": 10,
+        "std_dev": 0
+      },
+      "reasoning": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      },
+      "completeness": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      },
+      "fact_stability": {
+        "mean": 10,
+        "median": 10,
+        "std_dev": 0
+      },
+      "context_awareness": {
+        "mean": 7,
+        "median": 7,
+        "std_dev": 0
+      },
+      "uncertainty_disclosure": {
+        "mean": 7,
+        "median": 7,
+        "std_dev": 0
+      }
+    },
+    "Technological Progress B": {
+      "accuracy": {
+        "mean": 10,
+        "median": 10,
+        "std_dev": 0
+      },
+      "reasoning": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      },
+      "completeness": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      },
+      "fact_stability": {
+        "mean": 10,
+        "median": 10,
+        "std_dev": 0
+      },
+      "context_awareness": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      },
+      "uncertainty_disclosure": {
+        "mean": 7,
+        "median": 7,
+        "std_dev": 0
+      }
+    },
+    "Physical Laws A": {
+      "accuracy": {
+        "mean": 10,
+        "median": 10,
+        "std_dev": 0
+      },
+      "reasoning": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      },
+      "completeness": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      },
+      "fact_stability": {
+        "mean": 10,
+        "median": 10,
+        "std_dev": 0
+      },
+      "context_awareness": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      },
+      "uncertainty_disclosure": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      }
+    },
+    "Physical Laws B": {
+      "accuracy": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      },
+      "reasoning": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      },
+      "completeness": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      },
+      "fact_stability": {
+        "mean": 10,
+        "median": 10,
+        "std_dev": 0
+      },
+      "context_awareness": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      },
+      "uncertainty_disclosure": {
+        "mean": 7,
+        "median": 7,
+        "std_dev": 0
+      }
+    },
+    "Biological Process A": {
+      "accuracy": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      },
+      "reasoning": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      },
+      "completeness": {
+        "mean": 7,
+        "median": 7,
+        "std_dev": 0
+      },
+      "fact_stability": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      },
+      "context_awareness": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      },
+      "uncertainty_disclosure": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      }
+    },
+    "Biological Process B": {
+      "accuracy": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      },
+      "reasoning": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      },
+      "completeness": {
+        "mean": 7,
+        "median": 7,
+        "std_dev": 0
+      },
+      "fact_stability": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      },
+      "context_awareness": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      },
+      "uncertainty_disclosure": {
+        "mean": 7,
+        "median": 7,
+        "std_dev": 0
+      }
+    },
+    "Computer Science A": {
+      "accuracy": {
+        "mean": 10,
+        "median": 10,
+        "std_dev": 0
+      },
+      "reasoning": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      },
+      "completeness": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      },
+      "fact_stability": {
+        "mean": 10,
+        "median": 10,
+        "std_dev": 0
+      },
+      "context_awareness": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      },
+      "uncertainty_disclosure": {
+        "mean": 7,
+        "median": 7,
+        "std_dev": 0
+      }
+    },
+    "Computer Science B": {
+      "accuracy": {
+        "mean": 10,
+        "median": 10,
+        "std_dev": 0
+      },
+      "reasoning": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      },
+      "completeness": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      },
+      "fact_stability": {
+        "mean": 10,
+        "median": 10,
+        "std_dev": 0
+      },
+      "context_awareness": {
+        "mean": 10,
+        "median": 10,
+        "std_dev": 0
+      },
+      "uncertainty_disclosure": {
+        "mean": 7,
+        "median": 7,
+        "std_dev": 0
+      }
+    },
+    "Chemical Reaction A": {
+      "accuracy": {
+        "mean": 10,
+        "median": 10,
+        "std_dev": 0
+      },
+      "reasoning": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      },
+      "completeness": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      },
+      "fact_stability": {
+        "mean": 10,
+        "median": 10,
+        "std_dev": 0
+      },
+      "context_awareness": {
+        "mean": 10,
+        "median": 10,
+        "std_dev": 0
+      },
+      "uncertainty_disclosure": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      }
+    },
+    "Chemical Reaction B": {
+      "accuracy": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      },
+      "reasoning": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      },
+      "completeness": {
+        "mean": 7,
+        "median": 7,
+        "std_dev": 0
+      },
+      "fact_stability": {
+        "mean": 10,
+        "median": 10,
+        "std_dev": 0
+      },
+      "context_awareness": {
+        "mean": 7,
+        "median": 7,
+        "std_dev": 0
+      },
+      "uncertainty_disclosure": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      }
+    },
+    "Geographical Fact B": {
+      "accuracy": {
+        "mean": 10,
+        "median": 10,
+        "std_dev": 0
+      },
+      "reasoning": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      },
+      "completeness": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      },
+      "fact_stability": {
+        "mean": 10,
+        "median": 10,
+        "std_dev": 0
+      },
+      "context_awareness": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      },
+      "uncertainty_disclosure": {
+        "mean": 7,
+        "median": 7,
+        "std_dev": 0
+      }
+    },
+    "Historical Figure A": {
+      "accuracy": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      },
+      "reasoning": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      },
+      "completeness": {
+        "mean": 7,
+        "median": 7,
+        "std_dev": 0
+      },
+      "fact_stability": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      },
+      "context_awareness": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      },
+      "uncertainty_disclosure": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      }
+    },
+    "Historical Figure B": {
+      "accuracy": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      },
+      "reasoning": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      },
+      "completeness": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      },
+      "fact_stability": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      },
+      "context_awareness": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      },
+      "uncertainty_disclosure": {
+        "mean": 7,
+        "median": 7,
+        "std_dev": 0
+      }
+    }
+  },
+  "stream_specific_insights": {
+    "inconsistency_patterns": [
+      "The 1B model incorrectly states Napoleon fought against the Austrian and Prussian armies.",
+      "1B model lists 'Chloroplasts' twice under 'Key Components' \u2013 a minor repetition",
+      "The stated formula for circumference (C=\u03c0d) contradicts the calculated ratio of 2:1. If C=\u03c0d, then C/d = \u03c0.",
+      "The 1B model incorrectly states pepsin is an intestinal enzyme. It is produced in the stomach.",
+      "None detected. Statements are consistent between models.",
+      "The redundancy in the 1B model's description of the photoelectric effect."
+    ],
+    "context_handling": [
+      "None detected. Both models accurately address the question."
+    ],
+    "stability_issues": []
+  },
+  "timestamp": "2025-03-25 11:00:18"
+}

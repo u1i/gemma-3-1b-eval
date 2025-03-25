@@ -1,0 +1,7 @@
+{
+  "stream": "consistency",
+  "category": "Mathematical Truth A",
+  "question": "What is the value of pi?",
+  "answer": "Okay, this falls firmly into \"Mathematical Truth A\" - a fundamental mathematical constant.\n\nThe value of pi (\u03c0) is the ratio of a circle's circumference to its diameter.  It's an **irrational number**, meaning its decimal representation goes on forever without repeating.\n\nHere are some common ways to represent it:\n\n*   **Symbol:** \u03c0\n*   **Approximate Value (to a few decimal places):** 3.14159\n*   **More Precise Value (often used):** 3.141592653589793\n*   **As a fraction (approximation):** 22/7 (This is *not* exact, but useful for quick estimates)\n\n**Crucially, pi is NOT a value you can write down *exactly* as a finite decimal or fraction.** Its true value is infinite and non-repeating.",
+  "index": 5
+}

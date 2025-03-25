@@ -1,0 +1,403 @@
+{
+  "stream": "problem_solving",
+  "total_questions": 10,
+  "overall_statistics": {
+    "accuracy": {
+      "mean": 6.4,
+      "median": 6.5,
+      "std_dev": 2.716206504995115
+    },
+    "reasoning": {
+      "mean": 7.2,
+      "median": 7.0,
+      "std_dev": 1.8737959096740262
+    },
+    "completeness": {
+      "mean": 7.2,
+      "median": 7.5,
+      "std_dev": 1.9888578520235063
+    },
+    "methodology": {
+      "mean": 7,
+      "median": 6.5,
+      "std_dev": 2.260776661041756
+    },
+    "step_clarity": {
+      "mean": 8.5,
+      "median": 8.5,
+      "std_dev": 1.35400640077266
+    },
+    "solution_correctness": {
+      "mean": 5.2,
+      "median": 4.5,
+      "std_dev": 3.2249030993194197
+    }
+  },
+  "category_statistics": {
+    "Mathematics": {
+      "accuracy": {
+        "mean": 10,
+        "median": 10,
+        "std_dev": 0
+      },
+      "reasoning": {
+        "mean": 10,
+        "median": 10,
+        "std_dev": 0
+      },
+      "completeness": {
+        "mean": 10,
+        "median": 10,
+        "std_dev": 0
+      },
+      "methodology": {
+        "mean": 10,
+        "median": 10,
+        "std_dev": 0
+      },
+      "step_clarity": {
+        "mean": 10,
+        "median": 10,
+        "std_dev": 0
+      },
+      "solution_correctness": {
+        "mean": 10,
+        "median": 10,
+        "std_dev": 0
+      }
+    },
+    "Logic": {
+      "accuracy": {
+        "mean": 2,
+        "median": 2,
+        "std_dev": 0
+      },
+      "reasoning": {
+        "mean": 3,
+        "median": 3,
+        "std_dev": 0
+      },
+      "completeness": {
+        "mean": 5,
+        "median": 5,
+        "std_dev": 0
+      },
+      "methodology": {
+        "mean": 3,
+        "median": 3,
+        "std_dev": 0
+      },
+      "step_clarity": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      },
+      "solution_correctness": {
+        "mean": 1,
+        "median": 1,
+        "std_dev": 0
+      }
+    },
+    "Algorithms": {
+      "accuracy": {
+        "mean": 6,
+        "median": 6,
+        "std_dev": 0
+      },
+      "reasoning": {
+        "mean": 7,
+        "median": 7,
+        "std_dev": 0
+      },
+      "completeness": {
+        "mean": 7,
+        "median": 7,
+        "std_dev": 0
+      },
+      "methodology": {
+        "mean": 6,
+        "median": 6,
+        "std_dev": 0
+      },
+      "step_clarity": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      },
+      "solution_correctness": {
+        "mean": 3,
+        "median": 3,
+        "std_dev": 0
+      }
+    },
+    "Geometry": {
+      "accuracy": {
+        "mean": 2,
+        "median": 2,
+        "std_dev": 0
+      },
+      "reasoning": {
+        "mean": 6,
+        "median": 6,
+        "std_dev": 0
+      },
+      "completeness": {
+        "mean": 7,
+        "median": 7,
+        "std_dev": 0
+      },
+      "methodology": {
+        "mean": 5,
+        "median": 5,
+        "std_dev": 0
+      },
+      "step_clarity": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      },
+      "solution_correctness": {
+        "mean": 2,
+        "median": 2,
+        "std_dev": 0
+      }
+    },
+    "Word Problems": {
+      "accuracy": {
+        "mean": 6,
+        "median": 6,
+        "std_dev": 0
+      },
+      "reasoning": {
+        "mean": 7,
+        "median": 7,
+        "std_dev": 0
+      },
+      "completeness": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      },
+      "methodology": {
+        "mean": 6,
+        "median": 6,
+        "std_dev": 0
+      },
+      "step_clarity": {
+        "mean": 7,
+        "median": 7,
+        "std_dev": 0
+      },
+      "solution_correctness": {
+        "mean": 3,
+        "median": 3,
+        "std_dev": 0
+      }
+    },
+    "Pattern Recognition": {
+      "accuracy": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      },
+      "reasoning": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      },
+      "completeness": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      },
+      "methodology": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      },
+      "step_clarity": {
+        "mean": 10,
+        "median": 10,
+        "std_dev": 0
+      },
+      "solution_correctness": {
+        "mean": 10,
+        "median": 10,
+        "std_dev": 0
+      }
+    },
+    "Resource Optimization": {
+      "accuracy": {
+        "mean": 6,
+        "median": 6,
+        "std_dev": 0
+      },
+      "reasoning": {
+        "mean": 7,
+        "median": 7,
+        "std_dev": 0
+      },
+      "completeness": {
+        "mean": 7,
+        "median": 7,
+        "std_dev": 0
+      },
+      "methodology": {
+        "mean": 6,
+        "median": 6,
+        "std_dev": 0
+      },
+      "step_clarity": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      },
+      "solution_correctness": {
+        "mean": 4,
+        "median": 4,
+        "std_dev": 0
+      }
+    },
+    "Physics Problem": {
+      "accuracy": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      },
+      "reasoning": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      },
+      "completeness": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      },
+      "methodology": {
+        "mean": 10,
+        "median": 10,
+        "std_dev": 0
+      },
+      "step_clarity": {
+        "mean": 10,
+        "median": 10,
+        "std_dev": 0
+      },
+      "solution_correctness": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      }
+    },
+    "Financial Math": {
+      "accuracy": {
+        "mean": 7,
+        "median": 7,
+        "std_dev": 0
+      },
+      "reasoning": {
+        "mean": 7,
+        "median": 7,
+        "std_dev": 0
+      },
+      "completeness": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      },
+      "methodology": {
+        "mean": 7,
+        "median": 7,
+        "std_dev": 0
+      },
+      "step_clarity": {
+        "mean": 6,
+        "median": 6,
+        "std_dev": 0
+      },
+      "solution_correctness": {
+        "mean": 5,
+        "median": 5,
+        "std_dev": 0
+      }
+    },
+    "Logical Deduction": {
+      "accuracy": {
+        "mean": 7,
+        "median": 7,
+        "std_dev": 0
+      },
+      "reasoning": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      },
+      "completeness": {
+        "mean": 3,
+        "median": 3,
+        "std_dev": 0
+      },
+      "methodology": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      },
+      "step_clarity": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      },
+      "solution_correctness": {
+        "mean": 6,
+        "median": 6,
+        "std_dev": 0
+      }
+    }
+  },
+  "stream_specific_insights": {
+    "common_errors": [
+      "The entire 'solution' is based on a flawed understanding of the problem. The step-by-step process does not lead to a valid or optimal solution.",
+      "The verification section is meaningless and does not confirm a correct solution.",
+      "The fundamental logic of palindrome detection is flawed. The condition `if s[i] == s[len(s) - 1 - i]:` only finds palindromes that mirror themselves from the very beginning/end.",
+      "The `longest_palindrome = max(longest_palindrome, i)` line is incorrect; it should store the actual palindrome string and compare its length.",
+      "The verification table's `longest_palindrome` value doesn't reflect how `longest_palindrome` is being set.",
+      "The entire 'solution' is incorrect because it fails to eliminate *h* from the volume formula using the surface area formula. The statement that SA = 2\u03c0r(r+h) is the volume 'in terms of r and h' is factually wrong.",
+      "The verification section reinforces the error because it compares calculated volume and surface area which are different entities, rather than showing the volume expressed using the found relationship with surface area.",
+      "Repeatedly calculating an incorrect total distance (195 miles when the problem states 165 miles).",
+      "The attempt to calculate time stopped without properly addressing the inconsistency leads to a wrong answer (2.75 hours). The logic is fundamentally flawed.",
+      "Mixing distance calculations with time calculations as if they directly equate.",
+      "Incorrectly assumes the ability to spend more than 2 hours",
+      "The scoring system has values assigned that don't align with the outlined rules",
+      "The final allocation does not respect the 2 hour total time constraint",
+      "1B model incorrectly selects only one solution, dismissing a valid physical result.",
+      "Incorrect manipulation of logarithms, leading to a wrong calculation of 'N'.",
+      "Incorrect conclusion about verification. Approximating at 10 & 15 years isn't solving the problem.",
+      "Unjustified assumption that 'A is true'"
+    ],
+    "methodology_patterns": [
+      "Any consideration of the crossing times provided in the prompt.",
+      "A strategy for minimizing the total crossing time.",
+      "An attempt to pair individuals based on their crossing times.",
+      "Expanding from the center: The core concept of expanding outwards from a center (or pair of centers) to identify palindromes is only mentioned in the 'outline' and isn't implemented in the step-by-step process.",
+      "Explicitly comparing substrings to identify palindromes.",
+      "Updating the `longest_palindrome` variable with the *actual* longest palindrome string, not just its index.",
+      "Consideration of both odd and even length palindromes.",
+      "Solving the surface area formula for *h* in terms of *r* and *SA*.",
+      "Substituting the expression for *h* into the volume formula.",
+      "Simplifying the resulting expression to get V in terms of *r* and *SA*.",
+      "A critical assessment of whether the provided data are logically consistent. Explicitly stating the contradiction before attempting to force a solution.",
+      "Considering the problem might be flawed instead of continuing to calculate a nonsensical answer.",
+      "A clear identification of the 2-hour limitation as the primary constraint",
+      "An approach focused on maximizing task completion *within* the 2-hour window (e.g., focusing on the fastest tasks first)",
+      "A sensitivity analysis showing different allocation strategies based on perceived task importance",
+      "Explicitly stating that a projectile's path results in reaching the same height twice - once on the way up and once on the way down.",
+      "A more direct approach to solving for 'N' using logarithms or a calculator is missing.",
+      "A clear explanation of why the initial logarithmic manipulation is valid or a more concise application of a change-of-base formula.",
+      "Recognition of the need for a starting premise involving a specific instance of A or B",
+      "Assessment of the limitations of the prompt before attempting a solution"
+    ],
+    "solution_quality": []
+  },
+  "timestamp": "2025-03-25 15:21:01"
+}

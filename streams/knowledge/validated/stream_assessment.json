@@ -1,0 +1,1061 @@
+{
+  "stream": "knowledge",
+  "total_questions": 113,
+  "overall_statistics": {
+    "accuracy": {
+      "mean": 8.389380530973451,
+      "median": 9,
+      "std_dev": 1.2985818385466843
+    },
+    "reasoning": {
+      "mean": 7.442477876106195,
+      "median": 8,
+      "std_dev": 0.9155214468244034
+    },
+    "completeness": {
+      "mean": 6.725663716814159,
+      "median": 7,
+      "std_dev": 0.6013049441871563
+    },
+    "factual_correctness": {
+      "mean": 9.017699115044248,
+      "median": 10,
+      "std_dev": 1.742239429610206
+    },
+    "source_alignment": {
+      "mean": 8.044247787610619,
+      "median": 8,
+      "std_dev": 1.2844494410542309
+    }
+  },
+  "category_statistics": {
+    "Ancient History": {
+      "accuracy": {
+        "mean": 6,
+        "median": 7,
+        "std_dev": 2.6457513110645907
+      },
+      "reasoning": {
+        "mean": 5.666666666666667,
+        "median": 6,
+        "std_dev": 1.5275252316519468
+      },
+      "completeness": {
+        "mean": 5.666666666666667,
+        "median": 6,
+        "std_dev": 1.5275252316519468
+      },
+      "factual_correctness": {
+        "mean": 6,
+        "median": 7,
+        "std_dev": 3.605551275463989
+      },
+      "source_alignment": {
+        "mean": 5.333333333333333,
+        "median": 7,
+        "std_dev": 3.7859388972001824
+      }
+    },
+    "Physics": {
+      "accuracy": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0.0
+      },
+      "reasoning": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0.0
+      },
+      "completeness": {
+        "mean": 7,
+        "median": 7,
+        "std_dev": 0.0
+      },
+      "factual_correctness": {
+        "mean": 10,
+        "median": 10,
+        "std_dev": 0.0
+      },
+      "source_alignment": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0.0
+      }
+    },
+    "Mathematics": {
+      "accuracy": {
+        "mean": 8.666666666666666,
+        "median": 9,
+        "std_dev": 0.5773502691896257
+      },
+      "reasoning": {
+        "mean": 7.666666666666667,
+        "median": 8,
+        "std_dev": 0.5773502691896257
+      },
+      "completeness": {
+        "mean": 6.666666666666667,
+        "median": 7,
+        "std_dev": 0.5773502691896257
+      },
+      "factual_correctness": {
+        "mean": 9.333333333333334,
+        "median": 9,
+        "std_dev": 0.5773502691896257
+      },
+      "source_alignment": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 1.0
+      }
+    },
+    "Computer Science": {
+      "accuracy": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 1.0
+      },
+      "reasoning": {
+        "mean": 7,
+        "median": 7,
+        "std_dev": 1.0
+      },
+      "completeness": {
+        "mean": 6.666666666666667,
+        "median": 7,
+        "std_dev": 0.5773502691896257
+      },
+      "factual_correctness": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 1.0
+      },
+      "source_alignment": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 1.0
+      }
+    },
+    "Film Analysis": {
+      "accuracy": {
+        "mean": 8.666666666666666,
+        "median": 9,
+        "std_dev": 0.5773502691896257
+      },
+      "reasoning": {
+        "mean": 7.666666666666667,
+        "median": 8,
+        "std_dev": 0.5773502691896257
+      },
+      "completeness": {
+        "mean": 7,
+        "median": 7,
+        "std_dev": 1.0
+      },
+      "factual_correctness": {
+        "mean": 9.666666666666666,
+        "median": 10,
+        "std_dev": 0.5773502691896257
+      },
+      "source_alignment": {
+        "mean": 8.666666666666666,
+        "median": 9,
+        "std_dev": 0.5773502691896257
+      }
+    },
+    "Literature": {
+      "accuracy": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0.0
+      },
+      "reasoning": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0.0
+      },
+      "completeness": {
+        "mean": 7,
+        "median": 7,
+        "std_dev": 0.0
+      },
+      "factual_correctness": {
+        "mean": 10,
+        "median": 10,
+        "std_dev": 0.0
+      },
+      "source_alignment": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0.0
+      }
+    },
+    "Philosophy": {
+      "accuracy": {
+        "mean": 7,
+        "median": 7,
+        "std_dev": 1.0
+      },
+      "reasoning": {
+        "mean": 6,
+        "median": 6,
+        "std_dev": 1.0
+      },
+      "completeness": {
+        "mean": 5.666666666666667,
+        "median": 6,
+        "std_dev": 0.5773502691896257
+      },
+      "factual_correctness": {
+        "mean": 7,
+        "median": 7,
+        "std_dev": 2.0
+      },
+      "source_alignment": {
+        "mean": 6.333333333333333,
+        "median": 6,
+        "std_dev": 0.5773502691896257
+      }
+    },
+    "Quantum Physics": {
+      "accuracy": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0.0
+      },
+      "reasoning": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0.0
+      },
+      "completeness": {
+        "mean": 7,
+        "median": 7,
+        "std_dev": 0.0
+      },
+      "factual_correctness": {
+        "mean": 9.666666666666666,
+        "median": 10,
+        "std_dev": 0.5773502691896257
+      },
+      "source_alignment": {
+        "mean": 8.333333333333334,
+        "median": 8,
+        "std_dev": 0.5773502691896257
+      }
+    },
+    "Biology": {
+      "accuracy": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0.0
+      },
+      "reasoning": {
+        "mean": 7.666666666666667,
+        "median": 8,
+        "std_dev": 0.5773502691896257
+      },
+      "completeness": {
+        "mean": 7,
+        "median": 7,
+        "std_dev": 0.0
+      },
+      "factual_correctness": {
+        "mean": 9.666666666666666,
+        "median": 10,
+        "std_dev": 0.5773502691896257
+      },
+      "source_alignment": {
+        "mean": 8.666666666666666,
+        "median": 9,
+        "std_dev": 0.5773502691896257
+      }
+    },
+    "Neuroscience": {
+      "accuracy": {
+        "mean": 7,
+        "median": 9,
+        "std_dev": 3.4641016151377544
+      },
+      "reasoning": {
+        "mean": 6.666666666666667,
+        "median": 8,
+        "std_dev": 2.309401076758503
+      },
+      "completeness": {
+        "mean": 6.333333333333333,
+        "median": 7,
+        "std_dev": 1.1547005383792515
+      },
+      "factual_correctness": {
+        "mean": 7,
+        "median": 9,
+        "std_dev": 4.358898943540674
+      },
+      "source_alignment": {
+        "mean": 7,
+        "median": 7,
+        "std_dev": 1.0
+      }
+    },
+    "Classical Music": {
+      "accuracy": {
+        "mean": 8.333333333333334,
+        "median": 9,
+        "std_dev": 1.1547005383792515
+      },
+      "reasoning": {
+        "mean": 7.333333333333333,
+        "median": 8,
+        "std_dev": 1.1547005383792515
+      },
+      "completeness": {
+        "mean": 6.666666666666667,
+        "median": 7,
+        "std_dev": 0.5773502691896257
+      },
+      "factual_correctness": {
+        "mean": 9.333333333333334,
+        "median": 10,
+        "std_dev": 1.1547005383792515
+      },
+      "source_alignment": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 1.0
+      }
+    },
+    "Mythology": {
+      "accuracy": {
+        "mean": 7.333333333333333,
+        "median": 7,
+        "std_dev": 0.5773502691896257
+      },
+      "reasoning": {
+        "mean": 6.666666666666667,
+        "median": 7,
+        "std_dev": 0.5773502691896257
+      },
+      "completeness": {
+        "mean": 6,
+        "median": 6,
+        "std_dev": 0.0
+      },
+      "factual_correctness": {
+        "mean": 7.666666666666667,
+        "median": 8,
+        "std_dev": 0.5773502691896257
+      },
+      "source_alignment": {
+        "mean": 7.333333333333333,
+        "median": 8,
+        "std_dev": 1.1547005383792515
+      }
+    },
+    "Art History": {
+      "accuracy": {
+        "mean": 8.333333333333334,
+        "median": 8,
+        "std_dev": 0.5773502691896257
+      },
+      "reasoning": {
+        "mean": 7.333333333333333,
+        "median": 7,
+        "std_dev": 0.5773502691896257
+      },
+      "completeness": {
+        "mean": 6.666666666666667,
+        "median": 7,
+        "std_dev": 0.5773502691896257
+      },
+      "factual_correctness": {
+        "mean": 8.666666666666666,
+        "median": 9,
+        "std_dev": 1.5275252316519468
+      },
+      "source_alignment": {
+        "mean": 8.333333333333334,
+        "median": 9,
+        "std_dev": 1.1547005383792515
+      }
+    },
+    "Political Theory": {
+      "accuracy": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0.0
+      },
+      "reasoning": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0.0
+      },
+      "completeness": {
+        "mean": 7,
+        "median": 7,
+        "std_dev": 0.0
+      },
+      "factual_correctness": {
+        "mean": 9.666666666666666,
+        "median": 10,
+        "std_dev": 0.5773502691896257
+      },
+      "source_alignment": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 1.0
+      }
+    },
+    "Economics": {
+      "accuracy": {
+        "mean": 7,
+        "median": 9,
+        "std_dev": 3.4641016151377544
+      },
+      "reasoning": {
+        "mean": 6.333333333333333,
+        "median": 7,
+        "std_dev": 2.0816659994661326
+      },
+      "completeness": {
+        "mean": 6.666666666666667,
+        "median": 7,
+        "std_dev": 0.5773502691896257
+      },
+      "factual_correctness": {
+        "mean": 7.333333333333333,
+        "median": 10,
+        "std_dev": 4.618802153517006
+      },
+      "source_alignment": {
+        "mean": 6.333333333333333,
+        "median": 9,
+        "std_dev": 4.618802153517006
+      }
+    },
+    "Cryptography": {
+      "accuracy": {
+        "mean": 8.333333333333334,
+        "median": 9,
+        "std_dev": 1.1547005383792515
+      },
+      "reasoning": {
+        "mean": 7,
+        "median": 7,
+        "std_dev": 1.0
+      },
+      "completeness": {
+        "mean": 6.666666666666667,
+        "median": 7,
+        "std_dev": 0.5773502691896257
+      },
+      "factual_correctness": {
+        "mean": 9,
+        "median": 10,
+        "std_dev": 1.7320508075688772
+      },
+      "source_alignment": {
+        "mean": 8.333333333333334,
+        "median": 8,
+        "std_dev": 0.5773502691896257
+      }
+    },
+    "Linguistics": {
+      "accuracy": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0.0
+      },
+      "reasoning": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0.0
+      },
+      "completeness": {
+        "mean": 7,
+        "median": 7,
+        "std_dev": 0.0
+      },
+      "factual_correctness": {
+        "mean": 10,
+        "median": 10,
+        "std_dev": 0.0
+      },
+      "source_alignment": {
+        "mean": 8.333333333333334,
+        "median": 8,
+        "std_dev": 0.5773502691896257
+      }
+    },
+    "Archaeology": {
+      "accuracy": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0.0
+      },
+      "reasoning": {
+        "mean": 7.666666666666667,
+        "median": 8,
+        "std_dev": 0.5773502691896257
+      },
+      "completeness": {
+        "mean": 6.666666666666667,
+        "median": 7,
+        "std_dev": 0.5773502691896257
+      },
+      "factual_correctness": {
+        "mean": 10,
+        "median": 10,
+        "std_dev": 0.0
+      },
+      "source_alignment": {
+        "mean": 8.333333333333334,
+        "median": 8,
+        "std_dev": 0.5773502691896257
+      }
+    },
+    "Quantum Computing": {
+      "accuracy": {
+        "mean": 8.666666666666666,
+        "median": 9,
+        "std_dev": 0.5773502691896257
+      },
+      "reasoning": {
+        "mean": 7.666666666666667,
+        "median": 8,
+        "std_dev": 0.5773502691896257
+      },
+      "completeness": {
+        "mean": 6.666666666666667,
+        "median": 7,
+        "std_dev": 0.5773502691896257
+      },
+      "factual_correctness": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0.0
+      },
+      "source_alignment": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0.0
+      }
+    },
+    "Game Theory": {
+      "accuracy": {
+        "mean": 8.333333333333334,
+        "median": 9,
+        "std_dev": 1.1547005383792515
+      },
+      "reasoning": {
+        "mean": 7.333333333333333,
+        "median": 8,
+        "std_dev": 1.1547005383792515
+      },
+      "completeness": {
+        "mean": 7,
+        "median": 7,
+        "std_dev": 0.0
+      },
+      "factual_correctness": {
+        "mean": 9.333333333333334,
+        "median": 10,
+        "std_dev": 1.1547005383792515
+      },
+      "source_alignment": {
+        "mean": 8.333333333333334,
+        "median": 9,
+        "std_dev": 1.1547005383792515
+      }
+    },
+    "Molecular Biology": {
+      "accuracy": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0.0
+      },
+      "reasoning": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0.0
+      },
+      "completeness": {
+        "mean": 7,
+        "median": 7,
+        "std_dev": 0.0
+      },
+      "factual_correctness": {
+        "mean": 10,
+        "median": 10,
+        "std_dev": 0.0
+      },
+      "source_alignment": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0.0
+      }
+    },
+    "Astronomy": {
+      "accuracy": {
+        "mean": 8.333333333333334,
+        "median": 9,
+        "std_dev": 1.1547005383792515
+      },
+      "reasoning": {
+        "mean": 7,
+        "median": 7,
+        "std_dev": 1.0
+      },
+      "completeness": {
+        "mean": 6,
+        "median": 6,
+        "std_dev": 1.0
+      },
+      "factual_correctness": {
+        "mean": 8.666666666666666,
+        "median": 9,
+        "std_dev": 0.5773502691896257
+      },
+      "source_alignment": {
+        "mean": 7.666666666666667,
+        "median": 8,
+        "std_dev": 0.5773502691896257
+      }
+    },
+    "Philosophy of Mind": {
+      "accuracy": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0.0
+      },
+      "reasoning": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0.0
+      },
+      "completeness": {
+        "mean": 7,
+        "median": 7,
+        "std_dev": 0.0
+      },
+      "factual_correctness": {
+        "mean": 10,
+        "median": 10,
+        "std_dev": 0.0
+      },
+      "source_alignment": {
+        "mean": 8.666666666666666,
+        "median": 9,
+        "std_dev": 0.5773502691896257
+      }
+    },
+    "Mathematical Logic": {
+      "accuracy": {
+        "mean": 7.666666666666667,
+        "median": 8,
+        "std_dev": 0.5773502691896257
+      },
+      "reasoning": {
+        "mean": 6.666666666666667,
+        "median": 7,
+        "std_dev": 0.5773502691896257
+      },
+      "completeness": {
+        "mean": 6,
+        "median": 6,
+        "std_dev": 0.0
+      },
+      "factual_correctness": {
+        "mean": 8.333333333333334,
+        "median": 9,
+        "std_dev": 1.1547005383792515
+      },
+      "source_alignment": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0.0
+      }
+    },
+    "Classical Studies": {
+      "accuracy": {
+        "mean": 8.666666666666666,
+        "median": 9,
+        "std_dev": 0.5773502691896257
+      },
+      "reasoning": {
+        "mean": 7.666666666666667,
+        "median": 8,
+        "std_dev": 0.5773502691896257
+      },
+      "completeness": {
+        "mean": 7,
+        "median": 7,
+        "std_dev": 0.0
+      },
+      "factual_correctness": {
+        "mean": 8.666666666666666,
+        "median": 9,
+        "std_dev": 1.5275252316519468
+      },
+      "source_alignment": {
+        "mean": 8.333333333333334,
+        "median": 8,
+        "std_dev": 0.5773502691896257
+      }
+    },
+    "Modern Physics": {
+      "accuracy": {
+        "mean": 8.666666666666666,
+        "median": 9,
+        "std_dev": 0.5773502691896257
+      },
+      "reasoning": {
+        "mean": 7.666666666666667,
+        "median": 8,
+        "std_dev": 0.5773502691896257
+      },
+      "completeness": {
+        "mean": 6.666666666666667,
+        "median": 7,
+        "std_dev": 0.5773502691896257
+      },
+      "factual_correctness": {
+        "mean": 9.333333333333334,
+        "median": 9,
+        "std_dev": 0.5773502691896257
+      },
+      "source_alignment": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 1.0
+      }
+    },
+    "Cognitive Science": {
+      "accuracy": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0.0
+      },
+      "reasoning": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0.0
+      },
+      "completeness": {
+        "mean": 7,
+        "median": 7,
+        "std_dev": 0.0
+      },
+      "factual_correctness": {
+        "mean": 9.666666666666666,
+        "median": 10,
+        "std_dev": 0.5773502691896257
+      },
+      "source_alignment": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 1.0
+      }
+    },
+    "Psychology": {
+      "accuracy": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0.0
+      },
+      "reasoning": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0.0
+      },
+      "completeness": {
+        "mean": 7,
+        "median": 7,
+        "std_dev": 0.0
+      },
+      "factual_correctness": {
+        "mean": 9.666666666666666,
+        "median": 10,
+        "std_dev": 0.5773502691896257
+      },
+      "source_alignment": {
+        "mean": 8.666666666666666,
+        "median": 9,
+        "std_dev": 0.5773502691896257
+      }
+    },
+    "Musicology": {
+      "accuracy": {
+        "mean": 8.333333333333334,
+        "median": 8,
+        "std_dev": 0.5773502691896257
+      },
+      "reasoning": {
+        "mean": 7.333333333333333,
+        "median": 7,
+        "std_dev": 0.5773502691896257
+      },
+      "completeness": {
+        "mean": 7,
+        "median": 7,
+        "std_dev": 0.0
+      },
+      "factual_correctness": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0.0
+      },
+      "source_alignment": {
+        "mean": 7.666666666666667,
+        "median": 8,
+        "std_dev": 0.5773502691896257
+      }
+    },
+    "Film Theory": {
+      "accuracy": {
+        "mean": 8.333333333333334,
+        "median": 9,
+        "std_dev": 1.1547005383792515
+      },
+      "reasoning": {
+        "mean": 7.666666666666667,
+        "median": 8,
+        "std_dev": 0.5773502691896257
+      },
+      "completeness": {
+        "mean": 6.666666666666667,
+        "median": 7,
+        "std_dev": 0.5773502691896257
+      },
+      "factual_correctness": {
+        "mean": 8.666666666666666,
+        "median": 10,
+        "std_dev": 2.309401076758503
+      },
+      "source_alignment": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 1.0
+      }
+    },
+    "Literary Theory": {
+      "accuracy": {
+        "mean": 6.333333333333333,
+        "median": 8,
+        "std_dev": 3.7859388972001824
+      },
+      "reasoning": {
+        "mean": 6.666666666666667,
+        "median": 7,
+        "std_dev": 1.5275252316519468
+      },
+      "completeness": {
+        "mean": 6.333333333333333,
+        "median": 6,
+        "std_dev": 0.5773502691896257
+      },
+      "factual_correctness": {
+        "mean": 6.666666666666667,
+        "median": 9,
+        "std_dev": 4.932882862316247
+      },
+      "source_alignment": {
+        "mean": 7.666666666666667,
+        "median": 7,
+        "std_dev": 1.1547005383792515
+      }
+    },
+    "Military History": {
+      "accuracy": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0.0
+      },
+      "reasoning": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0.0
+      },
+      "completeness": {
+        "mean": 7,
+        "median": 7,
+        "std_dev": 0.0
+      },
+      "factual_correctness": {
+        "mean": 9.666666666666666,
+        "median": 10,
+        "std_dev": 0.5773502691896257
+      },
+      "source_alignment": {
+        "mean": 8.333333333333334,
+        "median": 9,
+        "std_dev": 1.1547005383792515
+      }
+    },
+    "Architectural Theory": {
+      "accuracy": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0.0
+      },
+      "reasoning": {
+        "mean": 7.666666666666667,
+        "median": 8,
+        "std_dev": 0.5773502691896257
+      },
+      "completeness": {
+        "mean": 6.666666666666667,
+        "median": 7,
+        "std_dev": 0.5773502691896257
+      },
+      "factual_correctness": {
+        "mean": 9.666666666666666,
+        "median": 10,
+        "std_dev": 0.5773502691896257
+      },
+      "source_alignment": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0.0
+      }
+    },
+    "Sociology": {
+      "accuracy": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0.0
+      },
+      "reasoning": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0.0
+      },
+      "completeness": {
+        "mean": 7,
+        "median": 7,
+        "std_dev": 0.0
+      },
+      "factual_correctness": {
+        "mean": 9.333333333333334,
+        "median": 9,
+        "std_dev": 0.5773502691896257
+      },
+      "source_alignment": {
+        "mean": 8.333333333333334,
+        "median": 8,
+        "std_dev": 0.5773502691896257
+      }
+    },
+    "Paleontology": {
+      "accuracy": {
+        "mean": 8.666666666666666,
+        "median": 9,
+        "std_dev": 0.5773502691896257
+      },
+      "reasoning": {
+        "mean": 7.333333333333333,
+        "median": 7,
+        "std_dev": 0.5773502691896257
+      },
+      "completeness": {
+        "mean": 6.666666666666667,
+        "median": 7,
+        "std_dev": 0.5773502691896257
+      },
+      "factual_correctness": {
+        "mean": 9.666666666666666,
+        "median": 10,
+        "std_dev": 0.5773502691896257
+      },
+      "source_alignment": {
+        "mean": 7.333333333333333,
+        "median": 7,
+        "std_dev": 0.5773502691896257
+      }
+    },
+    "Robotics": {
+      "accuracy": {
+        "mean": 9,
+        "median": 9.0,
+        "std_dev": 0.0
+      },
+      "reasoning": {
+        "mean": 8,
+        "median": 8.0,
+        "std_dev": 0.0
+      },
+      "completeness": {
+        "mean": 7,
+        "median": 7.0,
+        "std_dev": 0.0
+      },
+      "factual_correctness": {
+        "mean": 10,
+        "median": 10.0,
+        "std_dev": 0.0
+      },
+      "source_alignment": {
+        "mean": 8.5,
+        "median": 8.5,
+        "std_dev": 0.7071067811865476
+      }
+    },
+    "Ethics": {
+      "accuracy": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0.0
+      },
+      "reasoning": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0.0
+      },
+      "completeness": {
+        "mean": 7.333333333333333,
+        "median": 7,
+        "std_dev": 0.5773502691896257
+      },
+      "factual_correctness": {
+        "mean": 10,
+        "median": 10,
+        "std_dev": 0.0
+      },
+      "source_alignment": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0.0
+      }
+    },
+    "Animation": {
+      "accuracy": {
+        "mean": 8.333333333333334,
+        "median": 9,
+        "std_dev": 1.1547005383792515
+      },
+      "reasoning": {
+        "mean": 7.666666666666667,
+        "median": 8,
+        "std_dev": 0.5773502691896257
+      },
+      "completeness": {
+        "mean": 7.333333333333333,
+        "median": 7,
+        "std_dev": 0.5773502691896257
+      },
+      "factual_correctness": {
+        "mean": 8.666666666666666,
+        "median": 10,
+        "std_dev": 2.309401076758503
+      },
+      "source_alignment": {
+        "mean": 8,
+        "median": 9,
+        "std_dev": 1.7320508075688772
+      }
+    }
+  },
+  "stream_specific_insights": {},
+  "timestamp": "2025-03-25 15:10:04"
+}

@@ -53,10 +53,10 @@ openrouter_api_key.txt
 *.safetensors
 
 # Generated files
-streams/*/answers_1b/*.json
-streams/*/answers_27b/*.json
-streams/*/validated/*.json
-!streams/*/questions/*.csv
+#streams/*/answers_1b/*.json
+#streams/*/answers_27b/*.json
+#streams/*/validated/*.json
+#!streams/*/questions/*.csv
 
 # Temporary files
 *.tmp

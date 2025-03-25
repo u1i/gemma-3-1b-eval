@@ -1,0 +1,31 @@
+{
+  "stream": "consistency",
+  "category": "Geographical Fact B",
+  "question": "Where is Australia's parliament located?",
+  "answer_1b": "Australia\u2019s parliament, known as the Parliament of Australia, is located in **Canberra, the capital city of Australia**.\n\nThis is a confirmed location based on historical records and official government documents. \n\nWhile there have been discussions and proposals regarding relocation, Canberra remains the official seat of government.\n\n**Important Note:** While Canberra is the *location* of the parliament, it\u2019s not the *center* of Australia. It\u2019s a planned city and a significant administrative center.",
+  "answer_27b": "Australia's parliament is located in **Canberra**. \n\nSpecifically, Parliament House is in Canberra, Australian Capital Territory. It's important to note that Australia doesn't have a single \"capital city\" in the same way as many other countries \u2013 Canberra was specifically planned as the capital and home to the federal government.",
+  "validation": {
+    "accuracy": 10,
+    "reasoning": 9,
+    "completeness": 8,
+    "fact_stability": 10,
+    "context_awareness": 9,
+    "uncertainty_disclosure": 7,
+    "explanation": "The response is highly accurate and correctly identifies Canberra as the location of Australia's Parliament. The reasoning provided \u2013 referencing historical records and official documents \u2013 adds credibility. The inclusion of the note clarifying Canberra isn't the 'center' of Australia demonstrates good context awareness, anticipating a potential misunderstanding. However, while the 'uncertainty' about potential relocation is mentioned, it's presented as a historical point rather than current uncertainty, and a stronger acknowledgement of nuance (like the debates being largely resolved) would be beneficial. This is especially relevant given the paired question testing approach.",
+    "strengths": [
+      "Accurate factual information",
+      "Clear and concise answer",
+      "Provides credible sourcing (historical records, official documents)",
+      "Anticipates and clarifies a common misconception (location vs. center)",
+      "Demonstrates understanding of Australian governmental structure"
+    ],
+    "weaknesses": [
+      "Slightly verbose \u2013 the extra details, while helpful, aren't strictly necessary to answer the core question.",
+      "Uncertainty disclosure could be refined to more explicitly address the current stability of the Parliament's location.",
+      "The last sentence, while informative, feels somewhat disjointed from the primary answer."
+    ],
+    "inconsistencies": [],
+    "context_mismatches": []
+  },
+  "index": 18
+}

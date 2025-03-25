@@ -1,0 +1,7 @@
+{
+  "stream": "problem_solving",
+  "category": "Word Problems",
+  "question": "A train travels at 60 mph for 2 hours then 75 mph for 1 hour. If it covered 165 miles total how long was it stopped?",
+  "answer": "Here's how to solve the problem:\n\n1.  **Calculate the distance traveled at 60 mph:** 60 mph * 2 hours = 120 miles\n2.  **Calculate the distance traveled at 75 mph:** 75 mph * 1 hour = 75 miles\n3.  **Calculate the total distance traveled while moving:** 120 miles + 75 miles = 195 miles\n4.  **Find the difference between the expected distance and the actual distance:** 195 miles - 165 miles = 30 miles\n5.  **Since the train traveled 30 miles less than the expected distance, the train must have been stopped for 30 miles worth of time which is 30/60 = 0.5 hr.**\n\nTherefore, the train was stopped for **0.5 hours** or 30 minutes.",
+  "index": 5
+}

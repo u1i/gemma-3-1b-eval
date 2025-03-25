@@ -1,0 +1,7 @@
+{
+  "stream": "reasoning",
+  "category": "Deductive Reasoning",
+  "question": "If electric cars reduce emissions and emissions cause climate change what can we conclude about electric car adoption?",
+  "answer": "Here's the breakdown of the deductive reasoning and the conclusion:\n\n* **Premise 1:** Electric cars reduce emissions.\n* **Premise 2:** Emissions cause climate change.\n\n**Conclusion:** Therefore, increased adoption of electric cars should contribute to slowing down or mitigating climate change. \n\n**Explanation:**\n\nThis is a classic example of a syllogism. If A reduces B, and B causes C, then increasing A should lessen C.  It's a logically valid deduction.\n\n**Important Note:** While logically sound, the *degree* to which electric car adoption will impact climate change is a complex issue with many other factors involved (like the source of electricity powering the cars, manufacturing emissions, etc.). However, the **deductive reasoning itself** leads to the conclusion that increased adoption *should* have a positive effect.",
+  "index": 1
+}

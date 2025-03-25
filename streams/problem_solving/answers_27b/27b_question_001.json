@@ -1,0 +1,7 @@
+{
+  "stream": "problem_solving",
+  "category": "Mathematics",
+  "question": "Solve the quadratic equation: 2x\u00b2 + 5x - 12 = 0. Show your steps.",
+  "answer": "**Here's how to solve the quadratic equation 2x\u00b2 + 5x - 12 = 0, showing all the steps. We'll use the quadratic formula since factoring isn't immediately obvious.**\n\n**1. Identify a, b, and c**\n\nThe quadratic equation is in the standard form: ax\u00b2 + bx + c = 0\n\n*   a = 2\n*   b = 5\n*   c = -12\n\n**2. Write down the Quadratic Formula**\n\nThe quadratic formula is:\n\nx = (-b \u00b1 \u221a(b\u00b2 - 4ac)) / 2a\n\n**3. Substitute the values of a, b, and c into the formula**\n\nx = (-5 \u00b1 \u221a(5\u00b2 - 4 * 2 * -12)) / (2 * 2)\n\n**4. Simplify the expression inside the square root (the discriminant)**\n\nx = (-5 \u00b1 \u221a(25 + 96)) / 4\nx = (-5 \u00b1 \u221a121) / 4\n\n**5. Simplify the square root**\n\nx = (-5 \u00b1 11) / 4\n\n**6. Solve for the two possible values of x**\n\n*   **Case 1:  Using the plus sign**\n    x = (-5 + 11) / 4\n    x = 6 / 4\n    x = 3/2  or 1.5\n\n*   **Case 2: Using the minus sign**\n    x = (-5 - 11) / 4\n    x = -16 / 4\n    x = -4\n\n**7. Solution**\n\nTherefore, the solutions to the quadratic equation 2x\u00b2 + 5x - 12 = 0 are:\n\nx = 3/2  (or x = 1.5) and x = -4\n\n\n\n**Therefore, the solutions are x = 3/2 and x = -4.**",
+  "index": 1
+}

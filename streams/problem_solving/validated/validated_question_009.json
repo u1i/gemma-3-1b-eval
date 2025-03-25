@@ -1,0 +1,37 @@
+{
+  "stream": "problem_solving",
+  "category": "Financial Math",
+  "question": "Investment of $10000 grows 8% annually. How long until it doubles? Show the math.",
+  "answer_1b": "Okay, let\u2019s tackle this investment problem step-by-step.\n\n**1. Approach:**\n\nWe\u2019ll use the compound interest formula to calculate the time it takes for an investment to double. The formula is:\n\n*   **Future Value (FV) = Principal (P) * (1 + Rate (R))^(Number of Years (N))**\n\nIn our case:\n\n*   Principal (P) = $10000\n*   Rate (R) = 8% = 0.08\n*   Number of Years (N) = ? (We need to find this)\n\n**2. Show each step of the solution:**\n\nLet\u2019s plug the values into the formula:\n\nFV = 10000 * (1 + 0.08)^(Number of Years)\n\nWe want to find the number of years it takes for the investment to double, so we\u2019ll set FV = 2 * Principal:\n\n2 * 10000 = 10000 * (1 + 0.08)^(Number of Years)\n\n20000 = 10000 * (1.08)^(Number of Years)\n\nDivide both sides by 10000:\n\n2 = (1.08)^(Number of Years)\n\nNow, we need to solve for the Number of Years.  We can do this by taking the logarithm of both sides:\n\nlog(2) = log((1.08)^(Number of Years))\n\nlog(2) \u2248 0.3010\n\nNow, exponentiate both sides:\n\n2^log(2) = (1.08)^(Number of Years)\n\n2^0.3010 = (1.08)^(Number of Years)\n\n2.  3010 \u2248 (1.08)^(Number of Years)\n\nNow, we can solve for Number of Years by taking the power of both sides:\n\n2.  3010^1 = (1.08)^(Number of Years)\n\n4.  3010 = (1.08)^(Number of Years)\n\nNow, we can use logarithms again to solve for Number of Years:\n\nlog(4.3010) = Number of Years\n\nNumber of Years \u2248 4.3010 / 0.3010 \u2248 14.28\n\nSince we can't have a fraction of a year, we round up to 15 years.\n\n**3. Verify the Answer:**\n\nLet's check if 15 years is a reasonable time to double the investment:\n\n*   After 10 years:  FV = 10000 * (1.08)^10 \u2248 10000 * 2.1589 \u2248 21589\n*   After 15 years:  FV = 10000 * (1.08)^15 \u2248 10000 * 2.3673 \u2248 23673\n\nSince 15 years is closer to doubling than 10 years, we can confidently say that it will take approximately 15 years for the investment to double.\n\n**Final Answer:** It will take approximately **15 years** for the investment to double.",
+  "answer_27b": "Okay, here's how to calculate how long it takes for a $10,000 investment to double at an 8% annual growth rate, along with the math involved. We'll use the \"Rule of 72\" for a quick estimate and then the formal compound interest formula for a precise answer.\n\n**1. Rule of 72 (Quick Estimate)**\n\nThe Rule of 72 is a shortcut to estimate doubling time.  You divide 72 by the annual growth rate.\n\n*   Doubling Time \u2248 72 / Growth Rate\n*   Doubling Time \u2248 72 / 8\n*   Doubling Time \u2248 9 years\n\nThis means it will take roughly 9 years for the investment to double.  It's an approximation, but it's very close for rates around 6-10%.\n\n**2. Compound Interest Formula (Precise Calculation)**\n\nThe formula for compound interest is:\n\nA = P (1 + r)^n\n\nWhere:\n\n*   A = the future value of the investment/loan, including interest ($20,000 in this case, since we want it to *double*)\n*   P = the principal investment amount (the initial amount of $10,000)\n*   r = the annual interest rate (as a decimal, so 8% becomes 0.08)\n*   n = the number of years (this is what we're trying to find)\n\nLet's plug in the values and solve for 'n':\n\n$20,000 = $10,000 (1 + 0.08)^n\n\n**Step 1: Divide both sides by $10,000**\n\n2 = (1.08)^n\n\n**Step 2: Use logarithms to solve for 'n'**\n\nTo isolate 'n', we need to use logarithms.  You can use the natural logarithm (ln) or the base-10 logarithm (log).  I'll use the natural logarithm:\n\nln(2) = ln((1.08)^n)\n\n**Step 3: Apply the logarithm power rule**\n\nThe power rule of logarithms states that ln(a^b) = b * ln(a). Applying this:\n\nln(2) = n * ln(1.08)\n\n**Step 4: Solve for 'n'**\n\nn = ln(2) / ln(1.08)\n\n**Step 5: Calculate**\n\nn \u2248 0.6931 / 0.07696\nn \u2248 9.006 years\n\n**Answer:**\n\nTherefore, it will take approximately **9.006 years** for the $10,000 investment to double at an 8% annual growth rate.  The Rule of 72 gave us a very close estimate.\n\n\n\nKey takeaways:\n\n* Compound interest is a powerful tool for investment growth.\n* The Rule of 72 provides a quick and easy way to estimate doubling time.\n* Logarithms are essential for precisely solving for the time period in compound interest calculations.",
+  "validation": {
+    "accuracy": 7,
+    "reasoning": 7,
+    "completeness": 8,
+    "methodology": 7,
+    "step_clarity": 6,
+    "solution_correctness": 5,
+    "explanation": "The response attempts to solve the problem using logarithms, which is a valid approach. However, there are several mathematical errors that lead to a significantly incorrect final answer. The initial setup is correct, using the compound interest formula and setting the future value to twice the principal. The error arises in the manipulation of the logarithm after taking 'log' of both sides. The steps following `log(2) \u2248 0.3010` are convoluted and incorrect. They seem to be trying to re-apply logarithms in a way that doesn't logically follow the equation. A direct application of the change-of-base formula, or simply calculating using a calculator, would have been far more accurate. The verification step demonstrates a misunderstanding as well by checking FV at 10 and 15 years *as if* those intermediate values represent the doubling point rather than solving directly for the doubling time. The attempt to verify is not useful because of the incorrect initial answer.",
+    "strengths": [
+      "Correctly identifies the compound interest formula.",
+      "Sets up the problem correctly, defining variables and expressing the doubling condition.",
+      "Includes a verification step, thought it's not executed correctly due to the initial erroneous answer.",
+      "Good formatting and clear presentation of the formula and variables."
+    ],
+    "weaknesses": [
+      "Significant mathematical errors in manipulating the logarithm, leading to an incorrect answer.",
+      "Unnecessary and confusing steps after the initial logarithm application.",
+      "The verification step doesn't effectively validate the solution due to the incorrect doubling time.",
+      "Rounding leading to significant error."
+    ],
+    "missing_steps": [
+      "A more direct approach to solving for 'N' using logarithms or a calculator is missing.",
+      "A clear explanation of why the initial logarithmic manipulation is valid or a more concise application of a change-of-base formula."
+    ],
+    "errors": [
+      "Incorrect manipulation of logarithms, leading to a wrong calculation of 'N'.",
+      "Incorrect conclusion about verification. Approximating at 10 & 15 years isn't solving the problem."
+    ]
+  },
+  "index": 9
+}

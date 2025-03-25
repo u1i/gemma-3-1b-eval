@@ -1,0 +1,7 @@
+{
+  "stream": "problem_solving",
+  "category": "Logical Deduction",
+  "question": "If all A are B",
+  "answer": "Okay, let\u2019s tackle this logical deduction problem.\n\n**1. Approach:**\n\nWe need to use the principle of *modus ponens*. Modus ponens is a fundamental rule of inference in logic. It states:\n\n*   **If P, then Q.** (If A, then B)\n*   **P is true.** (A is true)\n*   **Therefore, Q is true.** (Therefore, B is true)\n\nIn our case, we have \u201cIf all A are B,\u201d which means \u201cIf A, then B.\u201d  We need to determine what B is.  We can use modus ponens to deduce B.\n\n**2. Step-by-Step Solution:**\n\n1.  **Assume A is true.**  Let's assume that 'A' is true. This is our starting point.\n\n2.  **Modus Ponens:**  The statement \"If A, then B\" is true.  We've established that A is true.  Therefore, by modus ponens, B must also be true.  So, B is true.\n\n3.  **Conclusion:** Therefore, if all A are B, and we've established that A is true, then B must be true.  **B is true.**\n\n**3. Verification:**\n\nOur solution is logically sound. We've followed the rules of modus ponens and arrived at a valid conclusion.  The conclusion \u2013 that B is true \u2013 is consistent with the initial assumption that A is true.\n\n**Therefore, the answer is: B is true.**\n\n---\n\nLet me know if you'd like to try another logical deduction problem!",
+  "index": 10
+}

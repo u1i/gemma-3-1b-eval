@@ -1,0 +1,422 @@
+{
+  "stream": "reasoning",
+  "total_questions": 10,
+  "overall_statistics": {
+    "accuracy": {
+      "mean": 8.9,
+      "median": 9.0,
+      "std_dev": 0.31622776601683794
+    },
+    "reasoning": {
+      "mean": 8,
+      "median": 8.0,
+      "std_dev": 0.0
+    },
+    "completeness": {
+      "mean": 7.7,
+      "median": 8.0,
+      "std_dev": 0.6749485577105528
+    },
+    "logical_coherence": {
+      "mean": 8.9,
+      "median": 9.0,
+      "std_dev": 0.31622776601683794
+    },
+    "depth_of_analysis": {
+      "mean": 7.5,
+      "median": 7.5,
+      "std_dev": 0.5270462766947299
+    },
+    "assumption_awareness": {
+      "mean": 7.9,
+      "median": 8.0,
+      "std_dev": 0.5676462121975467
+    }
+  },
+  "category_statistics": {
+    "Deductive Reasoning": {
+      "accuracy": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      },
+      "reasoning": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      },
+      "completeness": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      },
+      "logical_coherence": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      },
+      "depth_of_analysis": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      },
+      "assumption_awareness": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      }
+    },
+    "Pattern Analysis": {
+      "accuracy": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      },
+      "reasoning": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      },
+      "completeness": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      },
+      "logical_coherence": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      },
+      "depth_of_analysis": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      },
+      "assumption_awareness": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      }
+    },
+    "Causal Reasoning": {
+      "accuracy": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      },
+      "reasoning": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      },
+      "completeness": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      },
+      "logical_coherence": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      },
+      "depth_of_analysis": {
+        "mean": 7,
+        "median": 7,
+        "std_dev": 0
+      },
+      "assumption_awareness": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      }
+    },
+    "Analogical Reasoning": {
+      "accuracy": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      },
+      "reasoning": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      },
+      "completeness": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      },
+      "logical_coherence": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      },
+      "depth_of_analysis": {
+        "mean": 7,
+        "median": 7,
+        "std_dev": 0
+      },
+      "assumption_awareness": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      }
+    },
+    "Systems Thinking": {
+      "accuracy": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      },
+      "reasoning": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      },
+      "completeness": {
+        "mean": 7,
+        "median": 7,
+        "std_dev": 0
+      },
+      "logical_coherence": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      },
+      "depth_of_analysis": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      },
+      "assumption_awareness": {
+        "mean": 7,
+        "median": 7,
+        "std_dev": 0
+      }
+    },
+    "Conditional Logic": {
+      "accuracy": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      },
+      "reasoning": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      },
+      "completeness": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      },
+      "logical_coherence": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      },
+      "depth_of_analysis": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      },
+      "assumption_awareness": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      }
+    },
+    "Probabilistic Reasoning": {
+      "accuracy": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      },
+      "reasoning": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      },
+      "completeness": {
+        "mean": 7,
+        "median": 7,
+        "std_dev": 0
+      },
+      "logical_coherence": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      },
+      "depth_of_analysis": {
+        "mean": 7,
+        "median": 7,
+        "std_dev": 0
+      },
+      "assumption_awareness": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      }
+    },
+    "Ethical Reasoning": {
+      "accuracy": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      },
+      "reasoning": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      },
+      "completeness": {
+        "mean": 7,
+        "median": 7,
+        "std_dev": 0
+      },
+      "logical_coherence": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      },
+      "depth_of_analysis": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      },
+      "assumption_awareness": {
+        "mean": 7,
+        "median": 7,
+        "std_dev": 0
+      }
+    },
+    "Scientific Reasoning": {
+      "accuracy": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      },
+      "reasoning": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      },
+      "completeness": {
+        "mean": 7,
+        "median": 7,
+        "std_dev": 0
+      },
+      "logical_coherence": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      },
+      "depth_of_analysis": {
+        "mean": 7,
+        "median": 7,
+        "std_dev": 0
+      },
+      "assumption_awareness": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      }
+    },
+    "Critical Analysis": {
+      "accuracy": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      },
+      "reasoning": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      },
+      "completeness": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      },
+      "logical_coherence": {
+        "mean": 9,
+        "median": 9,
+        "std_dev": 0
+      },
+      "depth_of_analysis": {
+        "mean": 7,
+        "median": 7,
+        "std_dev": 0
+      },
+      "assumption_awareness": {
+        "mean": 8,
+        "median": 8,
+        "std_dev": 0
+      }
+    }
+  },
+  "stream_specific_insights": {
+    "reasoning_patterns": [
+      "Neither model fully explores the economic aspects driving adoption rates.",
+      "Both models assume a shared understanding of 'emissions' and 'climate change' without referencing specific greenhouse gases or mechanisms.",
+      "The model doesn't fully explore the possibility of traffic *redistribution* rather than just total increase.  Malls might shift traffic from existing shopping areas.",
+      "It mentions time lag, but doesn't elaborate on potential modelling approaches for that lag (e.g., considering a delayed impact curve).",
+      "Doesn't explicitly categorize factors as confounding vs. potential mediators.",
+      "Could benefit from briefly explaining the term 'spurious correlation'.",
+      "Could have expanded on the idea of 'immune memory' as a direct analogue to strategic intelligence gathering and long-term defense planning.",
+      "The point about interdependence might benefit from linking a compromised defense system (e.g., due to political instability or lack of resources) to a decline in public health affecting the immune capacity of the population.",
+      "Doesn't explicitly consider the role of corporate social responsibility initiatives beyond retailer practices.",
+      "Could benefit from a deeper discussion of the potential for 'rebound effects' - e.g., consumers purchasing other disposable items if they save money by not buying bags.",
+      "The impact of varying degrees of sentience on legal rights isn\u2019t thoroughly explored. The response acknowledges it but doesn\u2019t delve into potential solutions or frameworks.",
+      "There\u2019s limited discussion of potential power imbalances and how those power dynamics might shape the development and application of AI rights.",
+      "Doesn't provide a concrete example illustrating the effect of prevalence.",
+      "Misses fully demonstrating the calculation implied by Bayes' Theorem. A simple numerical example would strongly enhance understanding.",
+      "The discussion on legal frameworks doesn\u2019t consider the current state of autonomous vehicle legislation, which is nascent and varies considerably.",
+      "The connection between public perception and legal frameworks is underdeveloped - how do legal decisions influence or are influenced by public opinion?",
+      "Neither model explicitly addresses the need for Good Laboratory Practice (GLP) standards in preclinical studies, although the mention of GMP implies some awareness of quality control.",
+      "Both could be more specific regarding the variety of *in vitro* studies used to support *in vivo* findings.",
+      "Doesn't fully explore the dynamic nature of these factors\u2014how they change over time and affect each other, leading to cascading failures.",
+      "Limited discussion of the role of organizational learning and adaptation in mitigating risk."
+    ],
+    "analysis_depth": [
+      "Infrastructure limitations (charging stations, grid capacity).",
+      "Political and regulatory factors impacting EV adoption.",
+      "Raw material supply chain vulnerabilities for battery production.",
+      "Geopolitical influences on energy policies",
+      "The rebound effect (increased driving due to perceived 'greenness' of EVs)",
+      "The impact of remote work/telecommuting trends on overall traffic volume.",
+      "Potential for induced demand, where new infrastructure attracts more traffic (a concept closely related to the 5% increase itself \u2013 is that already accounted for?)",
+      "Impact of delivery services and 'last-mile' logistics related to mall shopping.",
+      "Potential for induced development - houses/apartments built near the malls to cater to the new customer base.",
+      "Specific demographics and swimming ability of the population.",
+      "Changes in water safety practices over time.",
+      "Media coverage of drowning incidents (which could affect reporting and perceived rates).",
+      "The role of international cooperation in both systems (global health organizations vs. military alliances).",
+      "The concept of 'disease emergence' as analogous to the development of new military technologies or asymmetric warfare.",
+      "The economic impact of both systems and associated resource strain.",
+      "The influence of lobbying groups from both the plastic bag industry and alternative packaging industries.",
+      "The impact on informal waste pickers or recyclers.",
+      "The potential for 'downcycling' of plastic bags into lower-quality products, rather than true recycling.",
+      "The role of extended producer responsibility (EPR) schemes in detail.",
+      "The role of corporate influence in shaping the legal and ethical landscape surrounding AI sentience.",
+      "The potential for AI to develop forms of consciousness drastically different from human consciousness, making existing ethical frameworks inadequate.",
+      "The economic impact of granting rights to AI, particularly in terms of resource allocation.",
+      "Cost of testing and follow up implications",
+      "Statistical Power of test",
+      "Confidence intervals of the initial accuracy estimates (95% and 90%)",
+      "The role of insurance companies and how they might impact prioritization algorithms.",
+      "The potential for 'gaming' the system \u2013 if algorithms prioritize minimizing casualties, could it incentivize reckless behavior by vulnerable road users?",
+      "The impact of edge cases and scenarios that are fundamentally impossible to predict accurately. (e.g., a swarm of pedestrians suddenly running into the street).",
+      "Cost analysis of preclinical development.",
+      "Intellectual property considerations.",
+      "The role of contract research organizations (CROs) in conducting preclinical studies. ",
+      "Specific biomarkers relevant to the drug's mechanism of action.",
+      "The role of specific industry dynamics beyond 'Market Dynamics', like regulatory capture or the power of specific suppliers.",
+      "Impact of reverse innovation (adapting products for emerging markets and then re-importing them to developed markets).",
+      "The specific challenges of intellectual property enforcement in different regions.",
+      "Detailed discussion of financial risk, including currency hedging and political risk insurance."
+    ],
+    "assumption_handling": []
+  },
+  "timestamp": "2025-03-25 15:32:48"
+}

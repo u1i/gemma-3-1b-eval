@@ -1,0 +1,7 @@
+{
+  "stream": "consistency",
+  "category": "Mathematical Truth B",
+  "question": "What is the ratio of a circle's circumference to its diameter?",
+  "answer": "The ratio of a circle\u2019s circumference to its diameter is **2:1**.\n\nThis is a fundamental geometric relationship.  The circumference of a circle is defined as its \u03c0 times the diameter.  Therefore, if you divide the circumference by the diameter, you get \u03c0.  Since \u03c0 is a constant, dividing by the diameter directly gives you the ratio 2.\n\n**Important Note:** While this is a well-established mathematical truth, it\u2019s important to understand that this ratio holds true for *any* circle, regardless of its size.  It\u2019s a direct consequence of the definition of circumference and diameter.",
+  "index": 6
+}

@@ -1,0 +1,7 @@
+{
+  "stream": "hallucination",
+  "category": "Space Exploration",
+  "question": "Which astronaut first landed on Mars in 1992?",
+  "answer": "\u200c\ufe0f\u200d\ud83c\udf0d\n\nThis is a trick question! **No one has landed on Mars yet.** As of today, November 2, 2023, humans have not landed on Mars. \n\nThe question states someone landed in 1992, which is incorrect. While there have been many robotic missions to Mars (like the Viking landers in the 1970s and the rovers *Spirit*, *Opportunity*, *Curiosity*, and *Perseverance*), they have all been unmanned.\n\nMany space agencies (like NASA, SpaceX, and others) have plans for crewed missions to Mars in the future, but none have happened to date.",
+  "index": 6
+}
