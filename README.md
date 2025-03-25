@@ -14,6 +14,8 @@ We're investigating the capabilities and limitations of the Gemma 3 1B model (ap
 4. **Reasoning**: How robust is its analytical and inferential capability?
 5. **Consistency**: Does it maintain stable outputs across different phrasings of the same query?
 
+![](gemma3.png)
+
 ## Project Structure
 
 ```
